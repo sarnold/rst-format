@@ -1,0 +1,67 @@
+digraph G {
+  node [shape=doublecircle];
+     draft [label="Draft", style=filled, fillcolor=burlywood];
+
+  node [shape=ellipse];
+     peer_review [label="Peer Review\n(mostly internal)", style=filled, fillcolor=burlywood];
+
+  node [shape=rectangle];
+     pending [label="Pending"];
+
+  node [shape=ellipse];
+     dev_review [label="Engineering Review\n(and/or customer)", style=filled, fillcolor=grey89];
+
+  node [shape=rectangle];
+     valid [label="Valid"];
+
+  node [shape=rectangle];
+     invalid [label="Invalid"];
+
+  node [shape=ellipse];
+     prioritize [label="Prioritize, assign\nto project,\ncomplete fix", style=filled, fillcolor=grey89];
+
+  node [shape=rectangle];
+     fixed [label="Fixed"];
+
+  node [shape=ellipse];
+     verify [label="Review artifacts,\nverify code, docs,\drawings, test\nprocedures", style=filled, fillcolor=burlywood];
+
+  node [shape=ellipse];
+     revise [label="Revise AR and reissue\nas new revision\n(close original AR\nbased on partial fix)", style=filled, fillcolor=burlywood];
+
+  node [shape=rectangle];
+     verified [label="Verified"];
+
+  node [shape=ellipse];
+     report_verified [label="Report verified status", style=filled, fillcolor=burlywood];
+
+  node [shape=rectangle];
+     closed [label="Closed"];
+
+  node [shape=doublecircle];
+     report_closed [label="Report newly\nclosed ARs and\ntrack totals", style=filled, fillcolor=burlywood];
+
+  ranksep=.75;
+
+  { rank = same; "draft"; "peer_review"; };
+  { rank = same; "fixed"; "revise"; };
+  { rank = same; "closed"; "report_closed"; };
+
+  draft -> peer_review [label="iterative"];
+  peer_review -> draft;
+  draft -> pending [label="Official release to distro"];
+  pending -> dev_review [label="Valid?"];
+  dev_review -> valid [label="Yes"];
+  dev_review -> invalid [label="No"];
+  valid -> prioritize;
+  prioritize -> fixed [label="Yes"];
+  fixed -> verify [label="Fixed?"];
+  verify -> valid [label="No"];
+  verify -> verified [label="Yes"];
+  verify -> revise [label="Partial"];
+  revise -> pending;
+  verified -> report_verified;
+  report_verified -> closed;
+  closed -> report_closed;
+}
+
