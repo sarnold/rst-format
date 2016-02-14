@@ -26,8 +26,9 @@ Education
   Doppler and Polarimetric Weather Radar, 595th TEG Test and Evaluation Course,
   AMS Faculty Workshop, AHC Professional Development courses.
 
-:1990: MS Degree in Geophysics, San Diego State University.  Thesis topic: Atmospheric
-  Resonance Waves Over the Sea of Cortés: An Experimental Case Study
+:1990: MS Degree in Geophysics, San Diego State University.  Thesis topic:
+
+   *Atmospheric Resonance Waves Over the Sea of Cortés: An Experimental Case Study*
 
 :1986: BS Degree in Geophysics, San Diego State University.
 
@@ -60,12 +61,12 @@ Languages
   jenkins/apache/trac/svn/git workflows, open document production
 
 
+.. raw:: pdf
+
+    PageBreak
+
 Recent Work Experience
 ----------------------
-
-:2014 - Present: Startup Mentor and Tech Adviser - Technology and Open Source
-  adviser, `Santa Maria Startup Weekend`_ and local startup meetups.  Open source
-  presentations, technology training, demos.
 
 :2014 - Present: Principal Scientist, Systems Architect, Business Development -
   `VCTLabs, Inc`_ - Goleta, CA.  VCT Product/Project management, conferences/expos,
@@ -75,6 +76,10 @@ Recent Work Experience
   Linux development, build, and deployment testing.  Linux kernel/u-boot and software
   testing on various ARM devices (Gentoo Linux, OE).  Business/community development
   (event support, outreach, presentations, proposals).
+
+:2004 - Present: Startup / Tech Mentor - Technology and Open Source adviser,
+  `Santa Maria Startup Weekend`_ and other local meetups and user groups.
+  Open source presentations, technology training, demos.
 
 :2011 - 2014: SynergyHD3  - Senior Software Engineer -
   `Arthrex California Technology, Inc.`_ - Goleta, CA. DevOps, software/systems
