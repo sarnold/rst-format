@@ -7,14 +7,18 @@
 
 Systems Engineer/Architect and Applied Earth Scientist
 ======================================================
-+--------------------------------------+-------------------------+-------------------+
-|**Address**: USA (Santa Maria, CA)    |**Degrees**:  Geophysics |.. image:: id.jpg  |
-|                                      |                         |   :scale: 22%     |
-|**Phone**: +01 (805) 863-8299         |**Language**: English    |   :align: center  |
-|                                      |                         |                   |
-|**Email**: stephen.arnold42@gmail.com |                         |                   |
-+--------------------------------------+-------------------------+-------------------+
 
++--------------------------------------+-------------------------+-------------+
+|**Address**: USA (Santa Maria, CA)    |**Degrees**:  Geophysics |             |
+|                                      |                         |             |
+|**Phone**: +01 (805) 863-8299         |**Language**: English    |   |myid|    |
+|                                      |                         |             |
+|**Email**: stephen.arnold42@gmail.com |                         |             |
++--------------------------------------+-------------------------+-------------+
+
+.. |myid| image:: images/id.jpg
+   :scale: 10%
+   :align: top
 
 Education
 ---------
