@@ -234,6 +234,7 @@
 
     bullet-list:
       parent: bodytext
+      spaceBefore: 3
       commands: []
              [VALIGN, [ 0, 0 ], [ -1, -1 ], TOP ]
              [RIGHTPADDING, [ 0, 0 ], [ 1, -1 ], 0 ]
@@ -241,6 +242,7 @@
 
     bullet-list-item:
       parent: bodytext
+      spaceBefore: 1
 
     item-list:
       parent: bodytext
@@ -295,8 +297,8 @@
     heading:
       parent: normal
       keepWithNext: true
-      spaceBefore: 12
-      spaceAfter: 6
+      spaceBefore: 8
+      spaceAfter: 4
 
     title:
       parent: heading
