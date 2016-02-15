@@ -1,5 +1,6 @@
 
-.. Process this file to a pdf using the command : "rst2pdf -s pdf-resume.style sarnold.rst"
+.. Process this file to a pdf using the command: "rst2pdf -s pdf-resume.style sarnold.rst"
+   Even better, use the makefile.
 
 ==================
  Stephen L Arnold
@@ -133,7 +134,7 @@ Recent Work Experience
   sounding gear, kite and balloon platforms).
 
 .. _Santa Maria Startup Weekend: http://santamaria.startupweekend.org/
-.. _VCTLabs, Inc: http://www.vctlabs.com
+.. _Vanguard Computer Technology Labs, Inc: http://www.vctlabs.com
 .. _Arthrex California Technology, Inc.: http://www.arthrex.com
 .. _ENSCO, Inc.: http://www.ensco.com
 .. _Meteorological And Range Safety System: https://www.researchgate.net/publication/270616408_P22_The_Meteorological_And_Range_Safety_Support_MARSS_system_a_GIS-based_tool_for_launch_area_hazard_prediction_and_visualization?ev=prf_pub
@@ -303,8 +304,8 @@ Appendix A
 
 Example of open source use in engineering; graphviz diagrams and IV&V.
 
-Overall IV&V and Engineering Processes
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Overall IV&V and Engineering Processes for Tracking Anomaly Reports
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Revise: Problem described in AR was partially fixed but needs additional work;
   a new revision of an AR has been written.
