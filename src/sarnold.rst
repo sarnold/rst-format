@@ -70,13 +70,14 @@ Recent Work Experience
 ----------------------
 
 :2014 - Present: Principal Scientist, Systems Architect, Business Development -
-  `VCTLabs, Inc`_ - Goleta, CA.  VCT Product/Project management, conferences/expos,
-  open source outreach & education. IV&V, Range Meteorology, and Hazard/Risk Modeling
-  Subject Matter Expert (SME), education & training instructor.  Systems Architecture
-  and CyberSecurity (specializing in Gentoo, OpenEmbedded, RHEL, and Debian/Ubuntu,
-  Linux development, build, and deployment testing.  Linux kernel/u-boot and software
-  testing on various ARM devices (Gentoo Linux, OE).  Business/community development
-  (event support, outreach, presentations, proposals).
+  `Vanguard Computer Technology Labs, Inc`_ - Goleta, CA.  VCT Product/Project
+  management, conferences/expos, open source outreach & education. IV&V, Range
+  Meteorology, and Hazard/Risk Modeling Subject Matter Expert (SME), education
+  & training instructor.  Systems Architecture and CyberSecurity (specializing
+  in Gentoo, OpenEmbedded, RHEL, and Debian/Ubuntu, Linux development, build,
+  and deployment testing.  Linux kernel/u-boot and software testing on various
+  ARM devices (Gentoo Linux, OE).  Business/community development (event support,
+  outreach, presentations, proposals).
 
 :2004 - Present: Startup / Tech Mentor - Technology and Open Source adviser,
   `Santa Maria Startup Weekend`_ and other local meetups and user groups.
@@ -114,7 +115,7 @@ Recent Work Experience
 
 :1991 - 1997: Senior Systems Engineer, IV&V Task Lead on Meteorological Range 
   Safety Systems - Geodynamics Corp - VAFB, CA. Requirements/code analysis,
-  windfield, dispersion, & `hazard model evaluation`_, dense gas hazard analysis,
+  windfield, dispersion, & hazard/risk `model evaluation`_, dense gas hazard analysis,
   developed new `statistical estimation algorithm`_ for processing time-averaged
   wind data without access to the raw samples. Also performed real-time range safety
   algorithm & performance analysis, instrumentation and data quality analysis.
@@ -136,7 +137,7 @@ Recent Work Experience
 .. _Arthrex California Technology, Inc.: http://www.arthrex.com
 .. _ENSCO, Inc.: http://www.ensco.com
 .. _Meteorological And Range Safety System: https://www.researchgate.net/publication/270616408_P22_The_Meteorological_And_Range_Safety_Support_MARSS_system_a_GIS-based_tool_for_launch_area_hazard_prediction_and_visualization?ev=prf_pub
-.. _hazard model evaluation: https://www.researchgate.net/publication/294263780_Physical_Thermodynamic_Properties_of_Hypergolic_Propellants_A_Review_and_Update
+.. _model evaluation: https://www.researchgate.net/publication/294263780_Physical_Thermodynamic_Properties_of_Hypergolic_Propellants_A_Review_and_Update
 .. _statistical estimation algorithm: https://www.researchgate.net/publication/270616420_P114_A_MINIMUM_VARIANCE_APPROACH_TO_ESTIMATING_WIND_DIRECTION_STATISTICS
 
 .. raw:: pdf
@@ -177,7 +178,7 @@ Recent Education Experience
 
 :1999 - 2009: Associate Faculty - `Allan Hancock College`_ (senior geography
   and meteorology instructor). Taught Physical and Human Geography courses
-  and ocassional technology courses, updated official geography course
+  and occasional technology courses, updated official geography course
   outlines, created new introductory meteorology course.
 
 .. _Allan Hancock College: http://www.hancockcollege.edu
@@ -200,8 +201,8 @@ Selected Projects
 
   * Maintainer of `GNU Winds On Critical Streamline Surfaces (GWOCSS)`_
     diagnostic windfield model.
-  * Senior Developer, `Gentoo Linux`_. Maintainer of `gentoo-embedded arm overlay`_,
-    developer tools, gnat-gcc, other.
+  * Senior Developer, `Gentoo Linux`_. Maintainer of `gentoo arm overlay`_,
+    developer tools, gnat-gcc, misc.
   * Project lead, `Open Source Weather Station`_ - Raspberry Pi weather sensors
     and display software, arduino lightning detector (AMS WeatherFest demo).
   * Embedded OS build, test, deployment, validation. SynergyHD3 embedded surgical
@@ -211,20 +212,20 @@ Selected Projects
     with MM5/AWIPS and local instrumentation, forecaster/maintainer training.
   * Test Director, test tool development, and scientific & engineering support,
     RSA Weather and Range Safety Systems, AFOTEC and 17TS.
-  * IV&V of MARSS, REEDM, and meteorological data systems, 30th Space Wing, VAFB.
-  * Volunteer user group leader, technical support, and PoP maintenance, RAIN
-    (non-profit ISP).
+  * IV&V and `model evaluation`_ of energy-balance evaporative source strength model
+    for hypergolic propellant/oxidizer spills.
+  * Volunteer user group leader, technical support, and PoP maintenance, RAIN.
   * Maintenance Development and Modeler, Air Emissions Risk Assessment Model
     (AERAM). Air toxics risk assessment modeling, sensitivity studies, control
     trade-offs. Added "batch" mode for large model runs, fixed bugs.
-  * Research Assistant, Data Analyst, Scientific Programmer on `Marginal Seas
-    Experiment`_, 1984/85.
+  * Research Assistant, Data Analyst, Programmer on `Marginal Seas Experiment`_,
+    1984/85.
   * Research Assistant, `Gibraltar Experiment`_, 1986.
   * Research Assistant, `Shelf MIxed-Layer Experiment (SMILE)`_, 1989.
 
 .. _GNU Winds On Critical Streamline Surfaces (GWOCSS): http://sarnold.github.io/gwocss/
 .. _Gentoo Linux: https://www.gentoo.org/
-.. _gentoo-embedded arm overlay: https://github.com/gentoo/arm
+.. _gentoo arm overlay: https://github.com/gentoo/arm
 .. _Open Source Weather Station: https://github.com/VCTLabs/weather-rpi
 .. _Marginal Seas Experiment: http://scrippsscholars.ucsd.edu/cdorman/content/lower-atmosphere-over-gulf-california
 .. _Gibraltar Experiment: https://www.researchgate.net/publication/230228131_Winds_in_the_Strait_of_Gbraltar
