@@ -44,7 +44,7 @@ Technical skills
 :Project Management: Planner, OpenAdams, SCM tools, Make/Autotools, trac/git,
   doxygen, TaskWarrior
 :DataBase: SQL, Postgres/spatial, sqlite, redis/nosql
-:Software: Libre/Open office tools, docutils, graphviz, Dia, Inkscape
+:Software: Libre/Open office tools, docutils, Graphviz, Dia, Inkscape, Maxima, Octave
 :Embedded Systems: Gentoo, OpenEmbedded, Android, design/build/deployment
   of applications for ARM and other embedded systems, Android, debian/Ubuntu
 
@@ -53,7 +53,8 @@ Languages
 ---------
 :English: Native
 :Spanish: Conversational(-ish)
-:Applied Math: Fluent
+:Applied Math: Fluent (linear systems, differential equations, functional analysis,
+  non-linear dynamics, math modeling, statistical methods)
 :Programming: Python, Ada, Bash/POSIX Shell, C, Java, C++, Perl, js, AWK, FORTRAN
 :Markup: reStructuredText, HTML, DTML, XML, Markdown
 :Architectures: x86/x86_64, ARM/AVR, Sparc, PowerPC, MIPS
@@ -106,20 +107,17 @@ Recent Work Experience
   Model evaluation and localization, integration with MM5/AWIPS, range
   instrumentation integration and test support.
 
-:1999 - 2009: Associate Faculty, Dept of Geography - Allan Hancock College,
-  Santa Maria, CA.  Senior instructor for physical geography and meteorology
-  courses (also taught Human Geography). Curriculum review, course development,
-  technology insertion, conference presentations.
-
 :1997 - 2002: Senior Scientist - Independent Verification & Validation -
   `ENSCO, Inc.`_ - VAFB, CA. IV&V of Launch & Test Range Meteorological and
-  Flight Safety Systems, Range engineering and test support to AFOTEC and 17th
-  Test Squadron. 
+  Flight Safety Systems, Range meteorologist and engineering test support to
+  AFOTEC and 17th Test Squadron.
 
 :1991 - 1997: Senior Systems Engineer, IV&V Task Lead on Meteorological Range 
   Safety Systems - Geodynamics Corp - VAFB, CA. Requirements/code analysis,
-  windfield, dispersion, & `hazard model evaluation`_, algorithm & performance
-  analysis, instrumentation and data quality analysis.
+  windfield, dispersion, & `hazard model evaluation`_, dense gas hazard analysis,
+  developed new `statistical estimation algorithm`_ for processing time-averaged
+  wind data without access to the raw samples. Also performed real-time range safety
+  algorithm & performance analysis, instrumentation and data quality analysis.
 
 :1990 - 1991: Applied earth science & software consultant, San Diego, CA.
   Air toxics risk assessment modeling studies, sensitivity studies, environmental
@@ -127,12 +125,23 @@ Recent Work Experience
   geophysical data acquisition (JR & Assoc), database design/implementation
   (SDSU Instructional Media Center).
 
+:1984 - 1990: Research Assistant, Coastal and Boundary Layer Meteorology - SDSU
+  and Scripps Center For Coastal Studies, San Diego, CA.  Field observations,
+  data collection, analysis, post-processing for 3 major field programs,
+  scientific programming, custom instrumentation development (tethered
+  sounding gear, kite and balloon platforms).
+
 .. _Santa Maria Startup Weekend: http://santamaria.startupweekend.org/
 .. _VCTLabs, Inc: http://www.vctlabs.com
 .. _Arthrex California Technology, Inc.: http://www.arthrex.com
 .. _ENSCO, Inc.: http://www.ensco.com
 .. _Meteorological And Range Safety System: https://www.researchgate.net/publication/270616408_P22_The_Meteorological_And_Range_Safety_Support_MARSS_system_a_GIS-based_tool_for_launch_area_hazard_prediction_and_visualization?ev=prf_pub
 .. _hazard model evaluation: https://www.researchgate.net/publication/294263780_Physical_Thermodynamic_Properties_of_Hypergolic_Propellants_A_Review_and_Update
+.. _statistical estimation algorithm: https://www.researchgate.net/publication/270616420_P114_A_MINIMUM_VARIANCE_APPROACH_TO_ESTIMATING_WIND_DIRECTION_STATISTICS
+
+.. raw:: pdf
+
+    PageBreak
 
 Recent FOSS Experience
 ----------------------
@@ -352,7 +361,7 @@ AR States and Status
 
 .. figure:: images/anomaly_state_diagram-2.svg
    :align: center
-   :scale: 80%
+   :scale: 90%
 
    Anomaly Report And Tracking State Diagram
 
