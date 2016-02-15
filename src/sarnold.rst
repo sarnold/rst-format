@@ -10,9 +10,9 @@ Systems Engineer/Architect and Applied Earth Scientist
 ======================================================
 
 +--------------------------------------+-------------------------+-------------+
-|**Address**: USA (Santa Maria, CA)    |**Degrees**:  Geophysics |             |
+|**Location**: USA (Santa Maria, CA)   |**Degrees**:  Geophysics |             |
 |                                      |                         |             |
-|**Phone**: +01 (805) 863-8299         |**Language**: English    |   |myid|    |
+|**Phone**: +01.805.863.8299           |**Language**: English    |   |myid|    |
 |                                      |                         |             |
 |**Email**: stephen.arnold42@gmail.com |                         |             |
 +--------------------------------------+-------------------------+-------------+
@@ -304,8 +304,8 @@ Appendix A
 
 Example of open source use in engineering; graphviz diagrams and IV&V.
 
-Overall IV&V and Engineering Processes for Tracking Anomaly Reports
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Overall IV&V Engineering Process for Tracking Anomaly Reports
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Revise: Problem described in AR was partially fixed but needs additional work;
   a new revision of an AR has been written.
