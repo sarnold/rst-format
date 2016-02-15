@@ -293,7 +293,7 @@ Personal
 :Home sites: http://www.gentoogeek.org  and  https://www.linkedin.com/pub/steve-arnold/3/172/427
 :Repositories: https://github.com/sarnold  and  https://github.com/VCTLabs
 :Publications: http://www.researchgate.net/profile/Stephen_Arnold4
-:Interests: Guitar/Bass/Pecussion, Science Fiction, Open Source
+:Interests: Guitar/Bass/Percussion, Science Fiction, Open Source
 
 .. raw:: pdf
 
