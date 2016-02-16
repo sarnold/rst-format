@@ -9,7 +9,9 @@ DOT = dot
 
 # input files
 DOTSRC  := $(wildcard images/*.dot)
-RSTSRC	:= $(wildcard *.rst)
+#FIGSRC	:= $(wildcard images/*.svg)
+#RSTSRC	:= $(wildcard *.rst)
+RSTSRC	:= sarnold.rst
 
 # set this to the output image format to include in the doc target
 FIGTYPE = svg
@@ -18,7 +20,7 @@ FIGTYPE = svg
 FIGS := $(DOTSRC:.dot=.$(FIGTYPE))
 
 # input files for DOC target
-#SOURCES_MK	:= $(RSTSRC) $(FIGS)
+#SOURCES_MK	:= $(FIGS) $(RSTSRC)
 SOURCES_MK	:= $(RSTSRC)
 # stuff to clean
 GENFILES	:= $(FIGS)
@@ -31,6 +33,8 @@ PDF_OFLAG = -o
 # reset file suffixes
 .SUFFIXES:
 .SUFFIXES: .pdf .dot .rst .$(FIGTYPE)
+
+.NOTPARALLEL: $(FIGS) $(DOCS)
 
 # build the figures
 images/%.$(FIGTYPE) : images/%.dot

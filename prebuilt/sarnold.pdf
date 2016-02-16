@@ -1,7 +1,7 @@
 %PDF-1.4
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
 1 0 obj
-<< /F1 2 0 R /F2 3 0 R /F3 6 0 R /F4 51 0 R /F5 53 0 R >>
+<< /F1 2 0 R /F2 3 0 R /F3 6 0 R >>
 endobj
 2 0 obj
 << /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
@@ -22,7 +22,7 @@ endobj
 << /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
 endobj
 7 0 obj
-<< /Annots [ 4 0 R ] /Contents 72 0 R /MediaBox [ 0 0 612 792 ] /Parent 71 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject << /FormXob.9edc0e966d7835e993928b28d2f51543 5 0 R >> >> /Rotate 0 
+<< /Annots [ 4 0 R ] /Contents 64 0 R /MediaBox [ 0 0 612 792 ] /Parent 63 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject << /FormXob.9edc0e966d7835e993928b28d2f51543 5 0 R >> >> /Rotate 0 
   /Trans <<  >> /Type /Page >>
 endobj
 8 0 obj
@@ -66,7 +66,7 @@ endobj
 endobj
 21 0 obj
 << /Annots [ 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 
-  18 0 R 19 0 R 20 0 R ] /Contents 73 0 R /MediaBox [ 0 0 612 792 ] /Parent 71 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  18 0 R 19 0 R 20 0 R ] /Contents 65 0 R /MediaBox [ 0 0 612 792 ] /Parent 63 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
   /Trans <<  >> /Type /Page >>
 endobj
 22 0 obj
@@ -135,7 +135,7 @@ endobj
 43 0 obj
 << /Annots [ 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 
   32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 37 0 R 38 0 R 39 0 R 40 0 R 41 0 R 
-  42 0 R ] /Contents 74 0 R /MediaBox [ 0 0 612 792 ] /Parent 71 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  42 0 R ] /Contents 66 0 R /MediaBox [ 0 0 612 792 ] /Parent 63 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
   /Trans <<  >> /Type /Page >>
 endobj
 44 0 obj
@@ -154,82 +154,54 @@ endobj
 << /A << /S /URI /Type /Action /URI (http://www.researchgate.net/profile/Stephen_Arnold4) >> /Border [ 0 0 0 ] /Rect [ 153.7323 106.4839 388.2923 118.4839 ] /Subtype /Link /Type /Annot >>
 endobj
 49 0 obj
-<< /Annots [ 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R ] /Contents 75 0 R /MediaBox [ 0 0 612 792 ] /Parent 71 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+<< /Annots [ 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R ] /Contents 67 0 R /MediaBox [ 0 0 612 792 ] /Parent 63 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
   /Trans <<  >> /Type /Page >>
 endobj
 50 0 obj
-<< /Contents 76 0 R /MediaBox [ 0 0 612 792 ] /Parent 71 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
-  /Type /Page >>
+<< /Outlines 52 0 R /PageLabels 68 0 R /PageMode /UseNone /Pages 63 0 R /Type /Catalog >>
 endobj
 51 0 obj
-<< /BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
-endobj
-52 0 obj
-<< /Contents 77 0 R /MediaBox [ 0 0 612 792 ] /Parent 71 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
-  /Type /Page >>
-endobj
-53 0 obj
-<< /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font >>
-endobj
-54 0 obj
-<< /Contents 78 0 R /MediaBox [ 0 0 612 792 ] /Parent 71 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
-  /Type /Page >>
-endobj
-55 0 obj
-<< /Outlines 57 0 R /PageLabels 79 0 R /PageMode /UseNone /Pages 71 0 R /Type /Catalog >>
-endobj
-56 0 obj
-<< /Author () /CreationDate (D:20160215120904+08'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+<< /Author () /CreationDate (D:20160216105859+08'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
   /Title (Stephen L Arnold) >>
 endobj
+52 0 obj
+<< /Count 10 /First 53 0 R /Last 62 0 R /Type /Outlines >>
+endobj
+53 0 obj
+<< /Dest [ 7 0 R /XYZ 62.69291 595.1339 0 ] /Next 54 0 R /Parent 52 0 R /Title (Education) >>
+endobj
+54 0 obj
+<< /Dest [ 7 0 R /XYZ 62.69291 470.3339 0 ] /Next 55 0 R /Parent 52 0 R /Prev 53 0 R /Title (Technical skills) >>
+endobj
+55 0 obj
+<< /Dest [ 7 0 R /XYZ 62.69291 279.5339 0 ] /Next 56 0 R /Parent 52 0 R /Prev 54 0 R /Title (Languages) >>
+endobj
+56 0 obj
+<< /Dest [ 21 0 R /XYZ 62.69291 715.1339 0 ] /Next 57 0 R /Parent 52 0 R /Prev 55 0 R /Title (Recent Work Experience) >>
+endobj
 57 0 obj
-<< /Count 14 /First 58 0 R /Last 68 0 R /Type /Outlines >>
+<< /Dest [ 43 0 R /XYZ 62.69291 715.1339 0 ] /Next 58 0 R /Parent 52 0 R /Prev 56 0 R /Title (Recent FOSS Experience) >>
 endobj
 58 0 obj
-<< /Dest [ 7 0 R /XYZ 62.69291 595.1339 0 ] /Next 59 0 R /Parent 57 0 R /Title (Education) >>
+<< /Dest [ 43 0 R /XYZ 62.69291 530.3339 0 ] /Next 59 0 R /Parent 52 0 R /Prev 57 0 R /Title (Recent Education Experience) >>
 endobj
 59 0 obj
-<< /Dest [ 7 0 R /XYZ 62.69291 470.3339 0 ] /Next 60 0 R /Parent 57 0 R /Prev 58 0 R /Title (Technical skills) >>
+<< /Dest [ 43 0 R /XYZ 62.69291 367.5339 0 ] /Next 60 0 R /Parent 52 0 R /Prev 58 0 R /Title (Selected Projects) >>
 endobj
 60 0 obj
-<< /Dest [ 7 0 R /XYZ 62.69291 282.5339 0 ] /Next 61 0 R /Parent 57 0 R /Prev 59 0 R /Title (Languages) >>
+<< /Dest [ 49 0 R /XYZ 62.69291 715.1339 0 ] /Next 61 0 R /Parent 52 0 R /Prev 59 0 R /Title (Selected Publications) >>
 endobj
 61 0 obj
-<< /Dest [ 21 0 R /XYZ 62.69291 715.1339 0 ] /Next 62 0 R /Parent 57 0 R /Prev 60 0 R /Title (Recent Work Experience) >>
+<< /Dest [ 49 0 R /XYZ 62.69291 269.3339 0 ] /Next 62 0 R /Parent 52 0 R /Prev 60 0 R /Title (Professional) >>
 endobj
 62 0 obj
-<< /Dest [ 43 0 R /XYZ 62.69291 715.1339 0 ] /Next 63 0 R /Parent 57 0 R /Prev 61 0 R /Title (Recent FOSS Experience) >>
+<< /Dest [ 49 0 R /XYZ 62.69291 177.5339 0 ] /Parent 52 0 R /Prev 61 0 R /Title (Personal) >>
 endobj
 63 0 obj
-<< /Dest [ 43 0 R /XYZ 62.69291 530.3339 0 ] /Next 64 0 R /Parent 57 0 R /Prev 62 0 R /Title (Recent Education Experience) >>
+<< /Count 4 /Kids [ 7 0 R 21 0 R 43 0 R 49 0 R ] /Type /Pages >>
 endobj
 64 0 obj
-<< /Dest [ 43 0 R /XYZ 62.69291 367.5339 0 ] /Next 65 0 R /Parent 57 0 R /Prev 63 0 R /Title (Selected Projects) >>
-endobj
-65 0 obj
-<< /Dest [ 49 0 R /XYZ 62.69291 715.1339 0 ] /Next 66 0 R /Parent 57 0 R /Prev 64 0 R /Title (Selected Publications) >>
-endobj
-66 0 obj
-<< /Dest [ 49 0 R /XYZ 62.69291 269.3339 0 ] /Next 67 0 R /Parent 57 0 R /Prev 65 0 R /Title (Professional) >>
-endobj
-67 0 obj
-<< /Dest [ 49 0 R /XYZ 62.69291 177.5339 0 ] /Next 68 0 R /Parent 57 0 R /Prev 66 0 R /Title (Personal) >>
-endobj
-68 0 obj
-<< /Count 2 /Dest [ 50 0 R /XYZ 62.69291 715.1339 0 ] /First 69 0 R /Last 70 0 R /Parent 57 0 R /Prev 67 0 R 
-  /Title (Appendix A) >>
-endobj
-69 0 obj
-<< /Dest [ 50 0 R /XYZ 62.69291 669.3339 0 ] /Next 70 0 R /Parent 68 0 R /Title (Overall IV&V Engineering Process for Tracking Anomaly Reports) >>
-endobj
-70 0 obj
-<< /Dest [ 50 0 R /XYZ 62.69291 549.5339 0 ] /Parent 68 0 R /Prev 69 0 R /Title (AR States and Status) >>
-endobj
-71 0 obj
-<< /Count 7 /Kids [ 7 0 R 21 0 R 43 0 R 49 0 R 50 0 R 52 0 R 54 0 R ] /Type /Pages >>
-endobj
-72 0 obj
-<< /Length 8545 >>
+<< /Length 8914 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -400,7 +372,28 @@ q
 1 0 0 1 62.69291 440.5339 cm
 Q
 q
-1 0 0 1 62.69291 401.5339 cm
+1 0 0 1 62.69291 413.5339 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 26.34937 0 Td (Sciences:) Tj T* -26.34937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .660961 Tw (Geophysical fluid dynamics, meteorology/geology/geography, environmental/health risk) Tj T* 0 Tw (assessment, applied math modeling) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 374.5339 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -421,18 +414,18 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 374.5339 cm
+1 0 0 1 62.69291 359.5339 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 6 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 25.80937 0 Td (Operating) Tj T* 2.77 0 Td (Systems:) Tj T* -28.57937 0 Td ET
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 55.25937 0 Td (OS:) Tj T* -55.25937 0 Td ET
 Q
 Q
 q
-1 0 0 1 91.03937 15 cm
+1 0 0 1 91.03937 3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Unix/Linux/Embedded \(Gentoo, OE, RHEL, Debian/Ubuntu\), Android) Tj T* ET
@@ -442,18 +435,18 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 347.5339 cm
+1 0 0 1 62.69291 344.5339 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 6 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 39.13937 0 Td (Project) Tj T* -30.55 0 Td (Management:) Tj T* -8.58937 0 Td ET
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 20.81937 0 Td (Proj Mgmt:) Tj T* -20.81937 0 Td ET
 Q
 Q
 q
-1 0 0 1 91.03937 15 cm
+1 0 0 1 91.03937 3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Planner, OpenAdams, SCM tools, Make/Autotools, trac/git, doxygen, TaskWarrior) Tj T* ET
@@ -463,7 +456,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 332.5339 cm
+1 0 0 1 62.69291 329.5339 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -484,7 +477,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 317.5339 cm
+1 0 0 1 62.69291 314.5339 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -505,7 +498,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 290.5339 cm
+1 0 0 1 62.69291 287.5339 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -526,16 +519,16 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 262.7339 cm
+1 0 0 1 62.69291 259.7339 cm
 q
 BT 1 0 0 1 0 3.3 Tm 19.8 TL /F2 16.5 Tf 0 0 0 rg (Languages) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 252.7339 cm
+1 0 0 1 62.69291 249.7339 cm
 Q
 q
-1 0 0 1 62.69291 237.7339 cm
+1 0 0 1 62.69291 234.7339 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -556,7 +549,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 222.7339 cm
+1 0 0 1 62.69291 219.7339 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -577,7 +570,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 195.7339 cm
+1 0 0 1 62.69291 192.7339 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -598,7 +591,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 180.7339 cm
+1 0 0 1 62.69291 177.7339 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -619,7 +612,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 165.7339 cm
+1 0 0 1 62.69291 162.7339 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -640,7 +633,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 150.7339 cm
+1 0 0 1 62.69291 147.7339 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -661,7 +654,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 123.7339 cm
+1 0 0 1 62.69291 120.7339 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -681,12 +674,12 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 123.7339 cm
+1 0 0 1 62.69291 120.7339 cm
 Q
  
 endstream
 endobj
-73 0 obj
+65 0 obj
 << /Length 8240 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -906,7 +899,7 @@ Q
  
 endstream
 endobj
-74 0 obj
+66 0 obj
 << /Length 11016 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -1455,8 +1448,8 @@ Q
  
 endstream
 endobj
-75 0 obj
-<< /Length 8411 >>
+67 0 obj
+<< /Length 8412 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1838,7 +1831,7 @@ q
 1 0 0 1 91.03937 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Guitar/Bass/Pecussion, Science Fiction, Open Source) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Guitar/Bass/Percussion, Science Fiction, Open Source) Tj T* ET
 Q
 Q
 q
@@ -1850,2024 +1843,101 @@ Q
  
 endstream
 endobj
-76 0 obj
-<< /Length 9117 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 62.69291 695.3339 cm
-q
-BT 1 0 0 1 0 3.3 Tm 19.8 TL /F2 16.5 Tf 0 0 0 rg (Appendix A) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 677.3339 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Example of open source use in engineering; graphviz diagrams and IV) Tj (&) Tj (V.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 652.5339 cm
-q
-BT 1 0 0 1 0 2.8 Tm 16.8 TL /F2 14 Tf 0 0 0 rg (Overall IV) Tj (&) Tj (V Engineering Process for Tracking Anomaly Reports) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 645.5339 cm
-Q
-q
-1 0 0 1 62.69291 645.5339 cm
-Q
-q
-1 0 0 1 62.69291 621.5339 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 9 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .463775 Tw (Revise: Problem described in AR was partially fixed but needs additional work; a new revision of an AR) Tj T* 0 Tw (has been written.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 620.5339 cm
-Q
-q
-1 0 0 1 62.69291 608.5339 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Validate: Developer/customer validates ARs in the Pending state.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 607.5339 cm
-Q
-q
-1 0 0 1 62.69291 595.5339 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Prioritize: Developer/customer prioritizes ARs and assign to project\(s\).) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 594.5339 cm
-Q
-q
-1 0 0 1 62.69291 570.5339 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 9 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-BT 1 0 0 1 0 14 Tm .248386 Tw 12 TL /F1 10 Tf 0 0 0 rg (Verify: IV) Tj (&) Tj (V verifies ARs declared fixed by the developer. Partial fixes generate a revision of the original) Tj T* 0 Tw (AR \(the latter is closed based on the partial fix\).) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 569.5339 cm
-Q
-q
-1 0 0 1 62.69291 557.5339 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Report: IV) Tj (&) Tj (V reports AR State changes and status of open ARs.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 557.5339 cm
-Q
-q
-1 0 0 1 62.69291 532.7339 cm
-q
-BT 1 0 0 1 0 2.8 Tm 16.8 TL /F2 14 Tf 0 0 0 rg (AR States and Status) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 525.7339 cm
-Q
-q
-1 0 0 1 62.69291 525.7339 cm
-Q
-q
-1 0 0 1 62.69291 486.7339 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 24 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 12 cm
-q
-BT 1 0 0 1 0 14 Tm 2.575261 Tw 12 TL /F1 10 Tf 0 0 0 rg (Draft State: Anomaly Reports begin in a draft status for IV) Tj (&) Tj (V peer review; refined drafts may be) Tj T* 0 Tw (circulated outside IV) Tj (&) Tj (V if warranted.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 23 9 cm
-Q
-q
-1 0 0 1 23 9 cm
-Q
-q
-1 0 0 1 23 -3 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Draft Status: IV) Tj (&) Tj (V peer review of potential anomalies results in publication of draft AR.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 485.7339 cm
-Q
-q
-1 0 0 1 62.69291 323.7339 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 147 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 87 cm
-q
-BT 1 0 0 1 0 62 Tm 2.198386 Tw 12 TL /F1 10 Tf 0 0 0 rg (Open State: Open ARs begin with a status of "Pending" when an approved draft AR is published.) Tj T* 0 Tw 2.277441 Tw (Engineering review leads to the next status change, typically "Valid". Valid ARs are prioritized and) Tj T* 0 Tw 1.949584 Tw (assigned to an appropriate project; when engineering considers the problem fixed, the AR status is) Tj T* 0 Tw .214363 Tw (changed to "Fixed". Fixed ARs are verified by IV) Tj (&) Tj (V, and their status changed to "Verified" if the problem) Tj T* 0 Tw .598709 Tw (was fixed. In the case of a "partial" fix, a the original AR is declared "Verified" and closed based on the) Tj T* 0 Tw (fix, and a new revision of the AR is written to describe any remaining issues.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 23 84 cm
-Q
-q
-1 0 0 1 23 84 cm
-Q
-q
-1 0 0 1 23 60 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 9 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .766278 Tw (Pending Status: An original or revised AR is generated, entered in the database, and delivered to) Tj T* 0 Tw (project distribution list.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 23 59 cm
-Q
-q
-1 0 0 1 23 35 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 9 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .190298 Tw (Valid Status: Developer \(or customer\) validates that AR identifies an error or problem condition that) Tj T* 0 Tw (must be fixed.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 23 34 cm
-Q
-q
-1 0 0 1 23 10 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 9 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-BT 1 0 0 1 0 14 Tm .731612 Tw 12 TL /F1 10 Tf 0 0 0 rg (Fixed Status: Problem described in AR is considered fixed by developer but has not been verified) Tj T* 0 Tw (by IV) Tj (&) Tj (V.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 23 9 cm
-Q
-q
-1 0 0 1 23 -3 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Verified Status: Problem has been fixed by developer and IV) Tj (&) Tj (V has verified the fix.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 322.7339 cm
-Q
-q
-1 0 0 1 62.69291 207.7339 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 100 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 88 cm
-q
-BT 1 0 0 1 0 14 Tm 1.881727 Tw 12 TL /F1 10 Tf 0 0 0 rg (Closed state: Typically closed ARs have the status "Verified" \(verified by IV) Tj (&) Tj (V\), however, there are) Tj T* 0 Tw (several other potential status flags for closed ARs, depending on the circumstances \(see below\).) Tj T* ET
-Q
-Q
-q
-1 0 0 1 23 85 cm
-Q
-q
-1 0 0 1 23 85 cm
-Q
-q
-1 0 0 1 23 73 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Invalid Status: AR is considered technically inaccurate and does not describe an error.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 23 72 cm
-Q
-q
-1 0 0 1 23 48 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 9 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .916945 Tw (Rejected Status: AR is technically accurate but the problem will not be fixed due to non-technical) Tj T* 0 Tw (reasons.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 23 47 cm
-Q
-q
-1 0 0 1 23 35 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Accepted Risk Status: Cost/benefit ratio does not justify fixing the problem.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 23 34 cm
-Q
-q
-1 0 0 1 23 10 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 9 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .095886 Tw (Unverifiable Status: Original problem cannot be recreated in order to verify fix, and there is no other) Tj T* 0 Tw (recourse.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 23 9 cm
-Q
-q
-1 0 0 1 23 -3 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Reconfigured Status: System has changed such that the original problem no longer applies.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 207.7339 cm
-Q
-q
-1 0 0 1 62.69291 207.7339 cm
-Q
- 
-endstream
+68 0 obj
+<< /Nums [ 0 69 0 R 1 70 0 R 2 71 0 R 3 72 0 R ] >>
 endobj
-77 0 obj
-<< /Length 18254 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 62.69291 709.1339 cm
-Q
-q
-1 0 0 1 62.69291 166.7339 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-.9 0 0 .9 59.0102 21 cm
-q
-[] 0 d
-BT /F4 10 Tf 12 TL ET
-1 w
-0 0 0 RG
-1 0 0 1 0 0 cm
-0 j
-BT /F4 10 Tf 12 TL ET
-0 0 0 rg
-0 J
-q
-1 0 0 1 0 0 cm
-q
-1 0 0 -1 0 576 cm
-q
-.774194 0 0 .774194 3.096776 572.9036 cm
-q
-[] 0 d
-1 w
-1 1 1 rg
-0 j
-1 1 1 RG
-0 J
-n -4 5 m -4 -740 l 525 -740 l 525 5 l -4 5 l h
-B*
-Q
-q
-1 0 0 1 0 0 cm
-q
-[] 0 d
-1 w
-.827451 .827451 .827451 rg
-0 j
-.827451 .827451 .827451 RG
-0 J
-n 290 -21 m 290 -649 l 390 -649 l 390 -21 l 290 -21 l h
-B*
-Q
-q
-1 0 0 -1 0 0 cm
-q
-BT /F1 12 Tf 14.4 TL ET
-BT /F1 12 Tf 14.4 TL ET
-0 0 0 rg
-BT 1 0 0 1 296.986 634.2 Tm (Anomaly Report) Tj T* ET
-Q
-Q
-q
-1 0 0 -1 0 0 cm
-q
-BT /F1 12 Tf 14.4 TL ET
-BT /F1 12 Tf 14.4 TL ET
-0 0 0 rg
-BT 1 0 0 1 313.66 619.2 Tm (Life Cycle) Tj T* ET
-Q
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[] 0 d
-1 w
-0 j
-0 0 1 RG
-0 J
-n 72 -138 m 72 -651 l 282 -651 l 282 -138 l 72 -138 l h
-S
-Q
-q
-1 0 0 -1 0 0 cm
-q
-BT /F1 12 Tf 14.4 TL ET
-BT /F1 12 Tf 14.4 TL ET
-0 0 0 rg
-BT 1 0 0 1 113.97 636.2 Tm (IV&V & Eng. Processes) Tj T* ET
-Q
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[] 0 d
-1 w
-.827451 .827451 .827451 rg
-0 j
-.827451 .827451 .827451 RG
-0 J
-n 418 -8 m 418 -645 l 512 -645 l 512 -8 l 418 -8 l h
-B*
-Q
-q
-1 0 0 -1 0 0 cm
-q
-BT /F1 12 Tf 14.4 TL ET
-BT /F1 12 Tf 14.4 TL ET
-0 0 0 rg
-BT 1 0 0 1 449.994 630.2 Tm (Other) Tj T* ET
-Q
-Q
-q
-1 0 0 -1 0 0 cm
-q
-BT /F1 12 Tf 14.4 TL ET
-BT /F1 12 Tf 14.4 TL ET
-0 0 0 rg
-BT 1 0 0 1 425.652 615.2 Tm (Closure States) Tj T* ET
-Q
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[] 0 d
-1 w
-1 1 1 rg
-0 j
-1 1 1 RG
-0 J
-n 376 -603 m 324 -603 l 324 -551 l 376 -551 l 376 -603 l h
-B*
-Q
-q
-1 0 0 -1 0 0 cm
-q
-BT /F1 10 Tf 12 TL ET
-BT /F1 10 Tf 12 TL ET
-0 0 0 rg
-BT 1 0 0 1 331.655 574.5 Tm (Pending) Tj T* ET
-Q
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[] 0 d
-1 w
-1 1 1 rg
-0 j
-1 1 1 RG
-0 J
-n 369 -465 m 331 -465 l 331 -427 l 369 -427 l 369 -465 l h
-B*
-Q
-q
-1 0 0 -1 0 0 cm
-q
-BT /F1 10 Tf 12 TL ET
-BT /F1 10 Tf 12 TL ET
-0 0 0 rg
-BT 1 0 0 1 338.885 443.5 Tm (Valid) Tj T* ET
-Q
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[1.0 5.0] 0 d
-1 w
-0 j
-0 0 0 RG
-0 J
-n 350 -550.805 m 350 -529.018 350 -498.025 350 -475.394 c
-S
-Q
-q
-[] 0 d
-1 w
-0 0 0 rg
-0 j
-0 0 0 RG
-0 J
-n 353.5 -475.342 m 350 -465.342 l 346.5 -475.342 l 353.5 -475.342 l h
-B*
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[] 0 d
-1 w
-.827451 .827451 .827451 rg
-0 j
-0 0 0 RG
-0 J
-n
-241.0833 -446 m
-241.0833 -432.7222 219.5557 -421.9584 193 -421.9584 c
-166.4443 -421.9584 144.9167 -432.7222 144.9167 -446 c
-144.9167 -459.2778 166.4443 -470.0416 193 -470.0416 c
-219.5557 -470.0416 241.0833 -459.2778 241.0833 -446 c
-B*
-Q
-q
-1 0 0 -1 0 0 cm
-q
-BT /F1 10 Tf 12 TL ET
-BT /F1 10 Tf 12 TL ET
-0 0 0 rg
-BT 1 0 0 1 166.32 450 Tm (Engineering) Tj T* ET
-Q
-Q
-q
-1 0 0 -1 0 0 cm
-q
-BT /F1 10 Tf 12 TL ET
-BT /F1 10 Tf 12 TL ET
-0 0 0 rg
-BT 1 0 0 1 176.61 437 Tm (Review) Tj T* ET
-Q
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[] 0 d
-1 w
-0 j
-0 0 0 RG
-0 J
-n 323.722 -555.074 m 296.752 -532.57 254.732 -497.509 225.646 -473.239 c
-S
-Q
-q
-[] 0 d
-1 w
-0 0 0 rg
-0 j
-0 0 0 RG
-0 J
-n 227.729 -470.419 m 217.808 -466.7 l 223.244 -475.794 l 227.729 -470.419 l h
-B*
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[] 0 d
-1 w
-.941176 .972549 1 rg
-0 j
-.941176 .972549 1 RG
-0 J
-n 477 -598.5 m 435 -598.5 l 435 -555.5 l 477 -555.5 l 477 -598.5 l h
-B*
-Q
-q
-1 0 0 -1 0 0 cm
-q
-BT /F1 10 Tf 12 TL ET
-BT /F1 10 Tf 12 TL ET
-0 0 0 rg
-BT 1 0 0 1 441.55 574.5 Tm (Invalid) Tj T* ET
-Q
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[1.0 5.0] 0 d
-1 w
-0 j
-0 0 0 RG
-0 J
-n 376.086 -577 m 392.286 -577 408.486 -577 424.686 -577 c
-S
-Q
-q
-[] 0 d
-1 w
-0 0 0 rg
-0 j
-0 0 0 RG
-0 J
-n 424.773 -580.5 m 434.773 -577 l 424.773 -573.5 l 424.773 -580.5 l h
-B*
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[] 0 d
-1 w
-.941176 .972549 1 rg
-0 j
-.941176 .972549 1 RG
-0 J
-n 483 -473.5 m 429 -473.5 l 429 -418.5 l 483 -418.5 l 483 -473.5 l h
-B*
-Q
-q
-1 0 0 -1 0 0 cm
-q
-BT /F1 10 Tf 12 TL ET
-BT /F1 10 Tf 12 TL ET
-0 0 0 rg
-BT 1 0 0 1 436.27 443.5 Tm (Rejected) Tj T* ET
-Q
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[1.0 5.0] 0 d
-1 w
-0 j
-0 0 0 RG
-0 J
-n 371.196 -550.805 m 387.339 -530.855 409.728 -503.186 427.448 -481.286 c
-S
-Q
-q
-[] 0 d
-1 w
-0 0 0 rg
-0 j
-0 0 0 RG
-0 J
-n 430.175 -483.48 m 433.745 -473.504 l 424.733 -479.077 l 430.175 -483.48 l h
-B*
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[] 0 d
-1 w
-1 1 1 rg
-0 j
-1 1 1 RG
-0 J
-n 352 -333.5 m 312 -333.5 l 312 -292.5 l 352 -292.5 l 352 -333.5 l h
-B*
-Q
-q
-1 0 0 -1 0 0 cm
-q
-BT /F1 10 Tf 12 TL ET
-BT /F1 10 Tf 12 TL ET
-0 0 0 rg
-BT 1 0 0 1 319.775 310.5 Tm (Fixed) Tj T* ET
-Q
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[1.0 5.0] 0 d
-1 w
-0 j
-0 0 0 RG
-0 J
-n 347.421 -426.944 m 344.482 -405.228 339.637 -369.426 336.161 -343.746 c
-S
-Q
-q
-[] 0 d
-1 w
-0 0 0 rg
-0 j
-0 0 0 RG
-0 J
-n 339.621 -343.212 m 334.811 -333.772 l 332.684 -344.151 l 339.621 -343.212 l h
-B*
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[] 0 d
-1 w
-.827451 .827451 .827451 rg
-0 j
-0 0 0 RG
-0 J
-n
-255.9325 -313 m
-255.9325 -294.6454 227.7567 -279.766 193 -279.766 c
-158.2433 -279.766 130.0675 -294.6454 130.0675 -313 c
-130.0675 -331.3546 158.2433 -346.234 193 -346.234 c
-227.7567 -346.234 255.9325 -331.3546 255.9325 -313 c
-B*
-Q
-q
-1 0 0 -1 0 0 cm
-q
-BT /F1 10 Tf 12 TL ET
-BT /F1 10 Tf 12 TL ET
-0 0 0 rg
-BT 1 0 0 1 156.325 323.5 Tm (Prioritize, assign) Tj T* ET
-Q
-Q
-q
-1 0 0 -1 0 0 cm
-q
-BT /F1 10 Tf 12 TL ET
-BT /F1 10 Tf 12 TL ET
-0 0 0 rg
-BT 1 0 0 1 165.215 310.5 Tm (to project\(s\),) Tj T* ET
-Q
-Q
-q
-1 0 0 -1 0 0 cm
-q
-BT /F1 10 Tf 12 TL ET
-BT /F1 10 Tf 12 TL ET
-0 0 0 rg
-BT 1 0 0 1 166.325 297.5 Tm (complete fix) Tj T* ET
-Q
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[] 0 d
-1 w
-0 j
-0 0 0 RG
-0 J
-n 330.72 -432.843 m 314.176 -421.306 289.923 -403.797 270 -387 c 256.136 -375.311 241.627 -361.753 228.989 -349.459 c
-S
-Q
-q
-[] 0 d
-1 w
-0 0 0 rg
-0 j
-0 0 0 RG
-0 J
-n 231.372 -346.895 m 221.783 -342.391 l 226.471 -351.892 l 231.372 -346.895 l h
-B*
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[] 0 d
-1 w
-.941176 .972549 1 rg
-0 j
-.941176 .972549 1 RG
-0 J
-n 504 -342 m 446 -342 l 446 -284 l 504 -284 l 504 -342 l h
-B*
-Q
-q
-1 0 0 -1 0 0 cm
-q
-BT /F1 10 Tf 12 TL ET
-BT /F1 10 Tf 12 TL ET
-0 0 0 rg
-BT 1 0 0 1 454.155 317 Tm (Accepted) Tj T* ET
-Q
-Q
-q
-1 0 0 -1 0 0 cm
-q
-BT /F1 10 Tf 12 TL ET
-BT /F1 10 Tf 12 TL ET
-0 0 0 rg
-BT 1 0 0 1 465.28 304 Tm (Risk) Tj T* ET
-Q
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[1.0 5.0] 0 d
-1 w
-0 j
-0 0 0 RG
-0 J
-n 369.005 -435.504 m 386.85 -424.964 413.5 -407.394 432 -387 c 441.546 -376.476 449.961 -363.489 456.757 -351.348 c
-S
-Q
-q
-[] 0 d
-1 w
-0 0 0 rg
-0 j
-0 0 0 RG
-0 J
-n 459.978 -352.748 m 461.63 -342.283 l 453.812 -349.433 l 459.978 -352.748 l h
-B*
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[] 0 d
-1 w
-.941176 .972549 1 rg
-0 j
-.941176 .972549 1 RG
-0 J
-n 494 -211.5 m 430 -211.5 l 430 -146.5 l 494 -146.5 l 494 -211.5 l h
-B*
-Q
-q
-1 0 0 -1 0 0 cm
-q
-BT /F1 10 Tf 12 TL ET
-BT /F1 10 Tf 12 TL ET
-0 0 0 rg
-BT 1 0 0 1 435.605 176.5 Tm (Unverifiable) Tj T* ET
-Q
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[1.0 5.0] 0 d
-1 w
-0 j
-0 0 0 RG
-0 J
-n 366.782 -426.866 m 375.814 -415.809 386.589 -401.293 394 -387 c 422.092 -332.827 441.702 -264.75 452.415 -221.543 c
-S
-Q
-q
-[] 0 d
-1 w
-0 0 0 rg
-0 j
-0 0 0 RG
-0 J
-n 455.858 -222.195 m 454.819 -211.651 l 449.056 -220.541 l 455.858 -222.195 l h
-B*
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[] 0 d
-1 w
-.941176 .972549 1 rg
-0 j
-.941176 .972549 1 RG
-0 J
-n 498 -89.5 m 426 -89.5 l 426 -16.5 l 498 -16.5 l 498 -89.5 l h
-B*
-Q
-q
-1 0 0 -1 0 0 cm
-q
-BT /F1 10 Tf 12 TL ET
-BT /F1 10 Tf 12 TL ET
-0 0 0 rg
-BT 1 0 0 1 432.265 50.5 Tm (Reconfigured) Tj T* ET
-Q
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[1.0 5.0] 0 d
-1 w
-0 j
-0 0 0 RG
-0 J
-n 352.889 -426.835 m 360.609 -377.791 383.698 -244.128 421 -138 c 425.546 -125.067 431.5 -111.508 437.456 -99.1133 c
-S
-Q
-q
-[] 0 d
-1 w
-0 0 0 rg
-0 j
-0 0 0 RG
-0 J
-n 440.719 -100.41 m 441.988 -89.892 l 434.436 -97.3229 l 440.719 -100.41 l h
-B*
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[] 0 d
-1 w
-1 1 1 rg
-0 j
-1 1 1 RG
-0 J
-n 358 -203.5 m 310 -203.5 l 310 -154.5 l 358 -154.5 l 358 -203.5 l h
-B*
-Q
-q
-1 0 0 -1 0 0 cm
-q
-BT /F1 10 Tf 12 TL ET
-BT /F1 10 Tf 12 TL ET
-0 0 0 rg
-BT 1 0 0 1 317.05 176.5 Tm (Verified) Tj T* ET
-Q
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[1.0 5.0] 0 d
-1 w
-0 j
-0 0 0 RG
-0 J
-n 332.308 -292.356 m 332.621 -271.415 333.11 -238.623 333.482 -213.684 c
-S
-Q
-q
-[] 0 d
-1 w
-0 0 0 rg
-0 j
-0 0 0 RG
-0 J
-n 336.984 -213.586 m 333.634 -203.535 l 329.985 -213.482 l 336.984 -213.586 l h
-B*
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[] 0 d
-1 w
-.870588 .721569 .529412 rg
-0 j
-0 0 0 RG
-0 J
-n
-273.8736 -179 m
-273.8736 -160.6454 230.5018 -145.766 177 -145.766 c
-123.4982 -145.766 80.1264 -160.6454 80.1264 -179 c
-80.1264 -197.3546 123.4982 -212.234 177 -212.234 c
-230.5018 -212.234 273.8736 -197.3546 273.8736 -179 c
-B*
-Q
-q
-1 0 0 -1 0 0 cm
-q
-BT /F1 10 Tf 12 TL ET
-BT /F1 10 Tf 12 TL ET
-0 0 0 rg
-BT 1 0 0 1 140.325 189.5 Tm (Review artifacts,) Tj T* ET
-Q
-Q
-q
-1 0 0 -1 0 0 cm
-q
-BT /F1 10 Tf 12 TL ET
-BT /F1 10 Tf 12 TL ET
-0 0 0 rg
-BT 1 0 0 1 115.31 176.5 Tm (verify code, docs, drawings,) Tj T* ET
-Q
-Q
-q
-1 0 0 -1 0 0 cm
-q
-BT /F1 10 Tf 12 TL ET
-BT /F1 10 Tf 12 TL ET
-0 0 0 rg
-BT 1 0 0 1 142.54 163.5 Tm (test procedures) Tj T* ET
-Q
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[] 0 d
-1 w
-0 j
-0 0 0 RG
-0 J
-n 325.997 -292.312 m 320.426 -276.135 310.744 -253.956 296 -239 c 283.711 -226.535 268.293 -216.198 252.669 -207.819 c
-S
-Q
-q
-[] 0 d
-1 w
-0 0 0 rg
-0 j
-0 0 0 RG
-0 J
-n 253.964 -204.55 m 243.467 -203.11 l 250.775 -210.782 l 253.964 -204.55 l h
-B*
-Q
-q
-1 0 0 -1 0 0 cm
-q
-BT /F1 10 Tf 12 TL ET
-BT /F1 10 Tf 12 TL ET
-0 0 0 rg
-BT 1 0 0 1 308.22 243.5 Tm (?) Tj T* ET
-Q
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[] 0 d
-1 w
-1 1 1 rg
-0 j
-1 1 1 RG
-0 J
-n 344 -76.5 m 298 -76.5 l 298 -29.5 l 344 -29.5 l 344 -76.5 l h
-B*
-Q
-q
-1 0 0 -1 0 0 cm
-q
-BT /F1 10 Tf 12 TL ET
-BT /F1 10 Tf 12 TL ET
-0 0 0 rg
-BT 1 0 0 1 305.44 50.5 Tm (Closed) Tj T* ET
-Q
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[1.0 5.0] 0 d
-1 w
-0 j
-0 0 0 RG
-0 J
-n 331.463 -154.407 m 329.469 -135.081 326.67 -107.959 324.469 -86.6256 c
-S
-Q
-q
-[] 0 d
-1 w
-0 0 0 rg
-0 j
-0 0 0 RG
-0 J
-n 327.951 -86.2656 m 323.443 -76.6777 l 320.988 -86.9841 l 327.951 -86.2656 l h
-B*
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[] 0 d
-1 w
-.870588 .721569 .529412 rg
-0 j
-0 0 0 RG
-0 J
-n
-63.8198 -446 m
-63.8198 -428.4264 49.57359 -414.1802 32 -414.1802 c
-14.42641 -414.1802 .1802 -428.4264 .1802 -446 c
-.1802 -463.5736 14.42641 -477.8198 32 -477.8198 c
-49.57359 -477.8198 63.8198 -463.5736 63.8198 -446 c
-B*
-Q
-q
-1 0 0 1 0 0 cm
-q
-[] 0 d
-1 w
-0 j
-0 J
-n 53.1648 -470 m 10.8352 -470 l h
-n
-Q
-q
-[] 0 d
-1 w
-0 j
-0 0 0 RG
-0 J
-n 53.1648 -470 m 10.8352 -470 l
-S
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[] 0 d
-1 w
-0 j
-0 J
-n 53.1648 -422 m 10.8352 -422 l h
-n
-Q
-q
-[] 0 d
-1 w
-0 j
-0 0 0 RG
-0 J
-n 53.1648 -422 m 10.8352 -422 l
-S
-Q
-Q
-q
-1 0 0 -1 0 0 cm
-q
-BT /F1 10 Tf 12 TL ET
-BT /F1 10 Tf 12 TL ET
-0 0 0 rg
-BT 1 0 0 1 16.995 450 Tm (Report) Tj T* ET
-Q
-Q
-q
-1 0 0 -1 0 0 cm
-q
-BT /F1 10 Tf 12 TL ET
-BT /F1 10 Tf 12 TL ET
-0 0 0 rg
-BT 1 0 0 1 17.825 437 Tm (Status) Tj T* ET
-Q
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[] 0 d
-1 w
-0 j
-0 0 0 RG
-0 J
-n 290.193 -59.0785 m 229.215 -71.7602 96.5531 -102.8 68 -138 c 5.83472 -214.636 14.2345 -339.427 24.0196 -404.128 c
-S
-Q
-q
-[] 0 d
-1 w
-0 0 0 rg
-0 j
-0 0 0 RG
-0 J
-n 20.6199 -405.034 m 25.6547 -414.356 l 27.5321 -403.929 l 20.6199 -405.034 l h
-B*
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[] 0 d
-1 w
-.870588 .721569 .529412 rg
-0 j
-0 0 0 RG
-0 J
-n
-249.8184 -577 m
-249.8184 -553.5685 213.6348 -534.5736 169 -534.5736 c
-124.3652 -534.5736 88.1816 -553.5685 88.1816 -577 c
-88.1816 -600.4315 124.3652 -619.4264 169 -619.4264 c
-213.6348 -619.4264 249.8184 -600.4315 249.8184 -577 c
-B*
-Q
-q
-1 0 0 -1 0 0 cm
-q
-BT /F1 10 Tf 12 TL ET
-BT /F1 10 Tf 12 TL ET
-0 0 0 rg
-BT 1 0 0 1 118.15 594 Tm (Revise AR and reissue) Tj T* ET
-Q
-Q
-q
-1 0 0 -1 0 0 cm
-q
-BT /F1 10 Tf 12 TL ET
-BT /F1 10 Tf 12 TL ET
-0 0 0 rg
-BT 1 0 0 1 134.545 581 Tm (as new revision) Tj T* ET
-Q
-Q
-q
-1 0 0 -1 0 0 cm
-q
-BT /F1 10 Tf 12 TL ET
-BT /F1 10 Tf 12 TL ET
-0 0 0 rg
-BT 1 0 0 1 129.825 568 Tm (\(close original AR) Tj T* ET
-Q
-Q
-q
-1 0 0 -1 0 0 cm
-q
-BT /F1 10 Tf 12 TL ET
-BT /F1 10 Tf 12 TL ET
-0 0 0 rg
-BT 1 0 0 1 125.37 555 Tm (based on partial fix\)) Tj T* ET
-Q
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[] 0 d
-1 w
-0 j
-0 0 0 RG
-0 J
-n 250.309 -577 m 271.488 -577 292.667 -577 313.846 -577 c
-S
-Q
-q
-[] 0 d
-1 w
-0 0 0 rg
-0 j
-0 0 0 RG
-0 J
-n 313.909 -580.5 m 323.909 -577 l 313.909 -573.5 l 313.909 -580.5 l h
-B*
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[] 0 d
-1 w
-0 j
-0 0 0 RG
-0 J
-n 241.143 -446 m 267.662 -446 294.182 -446 320.701 -446 c
-S
-Q
-q
-[] 0 d
-1 w
-0 0 0 rg
-0 j
-0 0 0 RG
-0 J
-n 320.865 -449.5 m 330.865 -446 l 320.865 -442.5 l 320.865 -449.5 l h
-B*
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[1.0 5.0] 0 d
-1 w
-0 j
-0 0 0 RG
-0 J
-n 182.417 -422.528 m 179.452 -404.052 178.747 -377.809 180.304 -355.643 c
-S
-Q
-q
-[] 0 d
-1 w
-0 0 0 rg
-0 j
-0 0 0 RG
-0 J
-n 183.809 -355.738 m 181.214 -345.466 l 176.837 -355.114 l 183.809 -355.738 l h
-B*
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[] 0 d
-1 w
-0 j
-0 0 0 RG
-0 J
-n 256.256 -313 m 271.321 -313 286.386 -313 301.451 -313 c
-S
-Q
-q
-[] 0 d
-1 w
-0 0 0 rg
-0 j
-0 0 0 RG
-0 J
-n 301.88 -316.5 m 311.88 -313 l 301.88 -309.5 l 301.88 -316.5 l h
-B*
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[1.0 5.0] 0 d
-1 w
-0 j
-0 0 0 RG
-0 J
-n 204.786 -345.466 m 207.028 -365.764 207.07 -391.854 204.912 -412.369 c
-S
-Q
-q
-[] 0 d
-1 w
-0 0 0 rg
-0 j
-0 0 0 RG
-0 J
-n 201.41 -412.159 m 203.583 -422.528 l 208.351 -413.067 l 201.41 -412.159 l h
-B*
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[1.0 5.0] 0 d
-1 w
-0 j
-0 0 0 RG
-0 J
-n 177.449 -280.904 m 173.39 -263.395 170.436 -241.475 169.459 -222.456 c
-S
-Q
-q
-[] 0 d
-1 w
-0 0 0 rg
-0 j
-0 0 0 RG
-0 J
-n 172.949 -222.114 m 169.125 -212.234 l 165.953 -222.343 l 172.949 -222.114 l h
-B*
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[] 0 d
-1 w
-0 j
-0 0 0 RG
-0 J
-n 208.069 -210.564 m 225.971 -229.702 248.185 -255.154 265 -280 c 281.423 -304.265 317.11 -377.193 336.614 -417.847 c
-S
-Q
-q
-[] 0 d
-1 w
-0 0 0 rg
-0 j
-0 0 0 RG
-0 J
-n 333.501 -419.45 m 340.974 -426.96 l 339.815 -416.429 l 333.501 -419.45 l h
-B*
-Q
-q
-1 0 0 -1 0 0 cm
-q
-BT /F1 10 Tf 12 TL ET
-BT /F1 10 Tf 12 TL ET
-0 0 0 rg
-BT 1 0 0 1 210.939 211.839 Tm (No) Tj T* ET
-Q
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[] 0 d
-1 w
-0 j
-0 0 0 RG
-0 J
-n 274.197 -179 m 282.98 -179 291.432 -179 299.077 -179 c
-S
-Q
-q
-[] 0 d
-1 w
-0 0 0 rg
-0 j
-0 0 0 RG
-0 J
-n 299.297 -182.5 m 309.297 -179 l 299.297 -175.5 l 299.297 -182.5 l h
-B*
-Q
-q
-1 0 0 -1 0 0 cm
-q
-BT /F1 10 Tf 12 TL ET
-BT /F1 10 Tf 12 TL ET
-0 0 0 rg
-BT 1 0 0 1 283.385 183 Tm (Yes) Tj T* ET
-Q
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[] 0 d
-1 w
-0 j
-0 0 0 RG
-0 J
-n 153.53 -211.313 m 141.209 -230.299 127.377 -255.348 121 -280 c 99.0683 -364.784 126.455 -465.909 147.965 -525.602 c
-S
-Q
-q
-[] 0 d
-1 w
-0 0 0 rg
-0 j
-0 0 0 RG
-0 J
-n 144.751 -527.004 m 151.494 -535.176 l 151.32 -524.583 l 144.751 -527.004 l h
-B*
-Q
-q
-1 0 0 -1 0 0 cm
-q
-BT /F1 10 Tf 12 TL ET
-BT /F1 10 Tf 12 TL ET
-0 0 0 rg
-BT 1 0 0 1 114.83 377.5 Tm (Partial) Tj T* ET
-Q
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[1.0 5.0] 0 d
-1 w
-0 j
-0 0 0 RG
-0 J
-n 192.737 -211.906 m 196.739 -229.447 199.636 -251.238 200.569 -270.093 c
-S
-Q
-q
-[] 0 d
-1 w
-0 0 0 rg
-0 j
-0 0 0 RG
-0 J
-n 197.075 -270.332 m 200.88 -280.22 l 204.071 -270.117 l 197.075 -270.332 l h
-B*
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[] 0 d
-1 w
-.870588 .721569 .529412 rg
-0 j
-0 0 0 RG
-0 J
-n 350 -730 m 317.789 -712 l 350 -694 l 382.211 -712 l 350 -730 l h
-B*
-Q
-q
-1 0 0 1 0 0 cm
-q
-[] 0 d
-1 w
-0 j
-0 J
-n 328.264 -717.854 m 328.264 -706.146 l h
-n
-Q
-q
-[] 0 d
-1 w
-0 j
-0 0 0 RG
-0 J
-n 328.264 -717.854 m 328.264 -706.146 l
-S
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[] 0 d
-1 w
-0 j
-0 J
-n 339.525 -699.854 m 360.475 -699.854 l h
-n
-Q
-q
-[] 0 d
-1 w
-0 j
-0 0 0 RG
-0 J
-n 339.525 -699.854 m 360.475 -699.854 l
-S
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[] 0 d
-1 w
-0 j
-0 J
-n 371.736 -706.146 m 371.736 -717.854 l h
-n
-Q
-q
-[] 0 d
-1 w
-0 j
-0 0 0 RG
-0 J
-n 371.736 -706.146 m 371.736 -717.854 l
-S
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[] 0 d
-1 w
-0 j
-0 J
-n 360.475 -724.146 m 339.525 -724.146 l h
-n
-Q
-q
-[] 0 d
-1 w
-0 j
-0 0 0 RG
-0 J
-n 360.475 -724.146 m 339.525 -724.146 l
-S
-Q
-Q
-q
-1 0 0 -1 0 0 cm
-q
-BT /F1 10 Tf 12 TL ET
-BT /F1 10 Tf 12 TL ET
-0 0 0 rg
-BT 1 0 0 1 339.165 709.5 Tm (Draft) Tj T* ET
-Q
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[1.0 5.0] 0 d
-1 w
-0 j
-0 0 0 RG
-0 J
-n 350 -693.793 m 350 -673.298 350 -639.473 350 -613.485 c
-S
-Q
-q
-[] 0 d
-1 w
-0 0 0 rg
-0 j
-0 0 0 RG
-0 J
-n 353.5 -613.244 m 350 -603.245 l 346.5 -613.245 l 353.5 -613.244 l h
-B*
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[] 0 d
-1 w
-.870588 .721569 .529412 rg
-0 j
-0 0 0 RG
-0 J
-n
-515.9975 -712 m
-515.9975 -698.7222 494.0606 -687.9584 467 -687.9584 c
-439.9394 -687.9584 418.0025 -698.7222 418.0025 -712 c
-418.0025 -725.2778 439.9394 -736.0416 467 -736.0416 c
-494.0606 -736.0416 515.9975 -725.2778 515.9975 -712 c
-B*
-Q
-q
-1 0 0 -1 0 0 cm
-q
-BT /F1 10 Tf 12 TL ET
-BT /F1 10 Tf 12 TL ET
-0 0 0 rg
-BT 1 0 0 1 438.66 716 Tm (Peer Review) Tj T* ET
-Q
-Q
-q
-1 0 0 -1 0 0 cm
-q
-BT /F1 10 Tf 12 TL ET
-BT /F1 10 Tf 12 TL ET
-0 0 0 rg
-BT 1 0 0 1 447.275 703 Tm (\(internal\)) Tj T* ET
-Q
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[1.0 5.0] 0 d
-1 w
-0 j
-0 0 0 RG
-0 J
-n 369.195 -704.594 m 384.447 -699.864 399.7 -697.888 414.952 -698.664 c
-S
-Q
-q
-[] 0 d
-1 w
-0 0 0 rg
-0 j
-0 0 0 RG
-0 J
-n 414.7 -702.156 m 424.975 -699.571 l 415.33 -695.184 l 414.7 -702.156 l h
-B*
-Q
-Q
-q
-1 0 0 1 0 0 cm
-q
-[1.0 5.0] 0 d
-1 w
-0 j
-0 0 0 RG
-0 J
-n 424.975 -724.429 m 409.722 -726.412 394.47 -725.641 379.218 -722.118 c
-S
-Q
-q
-[] 0 d
-1 w
-0 0 0 rg
-0 j
-0 0 0 RG
-0 J
-n 379.762 -718.639 m 369.195 -719.406 l 377.934 -725.396 l 379.762 -718.639 l h
-B*
-Q
-Q
-Q
-Q
-Q
-Q
-Q
-q
-1 0 0 1 6 3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 137.2721 0 Td (Anomaly Report And Tracking State Diagram) Tj T* -137.2721 0 Td ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 166.7339 cm
-Q
-q
-1 0 0 1 62.69291 166.7339 cm
-Q
- 
-endstream
-endobj
-78 0 obj
-<< /Length 6172 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 62.69291 703.1339 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The Dot source code for the graphviz diagram is included below.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 199.5339 cm
-q
-q
-1 0 0 1 0 0 cm
-q
-1 0 0 1 6.6 6.6 cm
-q
-.662745 .662745 .662745 RG
-.5 w
-1 .980392 .803922 rg
-n -6 -6 520.74 494.4 re B*
-Q
-q
-BT 1 0 0 1 0 476.4 Tm 7.2 TL /F1 6 Tf 0 0 0 rg ( 1 ) Tj /F5 6 Tf 0 0 0 rg (digraph G {) Tj T* /F1 6 Tf 0 0 0 rg ( 2 ) Tj /F5 6 Tf 0 0 0 rg (  node [shape=doublecircle];) Tj T* /F1 6 Tf 0 0 0 rg ( 3 ) Tj /F5 6 Tf 0 0 0 rg (     draft [label="Draft", style=filled, fillcolor=burlywood];) Tj T* /F1 6 Tf 0 0 0 rg ( 4 ) Tj /F5 6 Tf 0 0 0 rg  T* /F1 6 Tf 0 0 0 rg ( 5 ) Tj /F5 6 Tf 0 0 0 rg (  node [shape=ellipse];) Tj T* /F1 6 Tf 0 0 0 rg ( 6 ) Tj /F5 6 Tf 0 0 0 rg (     peer_review [label="Peer Review\\n\(mostly internal\)", style=filled, fillcolor=burlywood];) Tj T* /F1 6 Tf 0 0 0 rg ( 7 ) Tj /F5 6 Tf 0 0 0 rg  T* /F1 6 Tf 0 0 0 rg ( 8 ) Tj /F5 6 Tf 0 0 0 rg (  node [shape=rectangle];) Tj T* /F1 6 Tf 0 0 0 rg ( 9 ) Tj /F5 6 Tf 0 0 0 rg (     pending [label="Pending"];) Tj T* /F1 6 Tf 0 0 0 rg (10 ) Tj /F5 6 Tf 0 0 0 rg  T* /F1 6 Tf 0 0 0 rg (11 ) Tj /F5 6 Tf 0 0 0 rg (  node [shape=ellipse];) Tj T* /F1 6 Tf 0 0 0 rg (12 ) Tj /F5 6 Tf 0 0 0 rg (     dev_review [label="Engineering Review\\n\(and/or customer\)", style=filled, fillcolor=grey89];) Tj T* /F1 6 Tf 0 0 0 rg (13 ) Tj /F5 6 Tf 0 0 0 rg  T* /F1 6 Tf 0 0 0 rg (14 ) Tj /F5 6 Tf 0 0 0 rg (  node [shape=rectangle];) Tj T* /F1 6 Tf 0 0 0 rg (15 ) Tj /F5 6 Tf 0 0 0 rg (     valid [label="Valid"];) Tj T* /F1 6 Tf 0 0 0 rg (16 ) Tj /F5 6 Tf 0 0 0 rg  T* /F1 6 Tf 0 0 0 rg (17 ) Tj /F5 6 Tf 0 0 0 rg (  node [shape=rectangle];) Tj T* /F1 6 Tf 0 0 0 rg (18 ) Tj /F5 6 Tf 0 0 0 rg (     invalid [label="Invalid"];) Tj T* /F1 6 Tf 0 0 0 rg (19 ) Tj /F5 6 Tf 0 0 0 rg  T* /F1 6 Tf 0 0 0 rg (20 ) Tj /F5 6 Tf 0 0 0 rg (  node [shape=ellipse];) Tj T* /F1 6 Tf 0 0 0 rg (21 ) Tj /F5 6 Tf 0 0 0 rg (     prioritize [label="Prioritize, assign\\nto project,\\ncomplete fix", style=filled, fillcolor=grey89];) Tj T* /F1 6 Tf 0 0 0 rg (22 ) Tj /F5 6 Tf 0 0 0 rg  T* /F1 6 Tf 0 0 0 rg (23 ) Tj /F5 6 Tf 0 0 0 rg (  node [shape=rectangle];) Tj T* /F1 6 Tf 0 0 0 rg (24 ) Tj /F5 6 Tf 0 0 0 rg (     fixed [label="Fixed"];) Tj T* /F1 6 Tf 0 0 0 rg (25 ) Tj /F5 6 Tf 0 0 0 rg  T* /F1 6 Tf 0 0 0 rg (26 ) Tj /F5 6 Tf 0 0 0 rg (  node [shape=ellipse];) Tj T* /F1 6 Tf 0 0 0 rg (27 ) Tj /F5 6 Tf 0 0 0 rg (     verify [label="Review artifacts,\\nverify code, docs,\\drawings, test\\nprocedures", style=filled, fillcolor=burlywood];) Tj T* /F1 6 Tf 0 0 0 rg (28 ) Tj /F5 6 Tf 0 0 0 rg  T* /F1 6 Tf 0 0 0 rg (29 ) Tj /F5 6 Tf 0 0 0 rg (  node [shape=ellipse];) Tj T* /F1 6 Tf 0 0 0 rg (30 ) Tj /F5 6 Tf 0 0 0 rg (     revise [label="Revise AR and reissue\\nas new revision\\n\(close original AR\\nbased on partial fix\)", style=filled, fillcolor=burlywood];) Tj T* /F1 6 Tf 0 0 0 rg (31 ) Tj /F5 6 Tf 0 0 0 rg  T* /F1 6 Tf 0 0 0 rg (32 ) Tj /F5 6 Tf 0 0 0 rg (  node [shape=rectangle];) Tj T* /F1 6 Tf 0 0 0 rg (33 ) Tj /F5 6 Tf 0 0 0 rg (     verified [label="Verified"];) Tj T* /F1 6 Tf 0 0 0 rg (34 ) Tj /F5 6 Tf 0 0 0 rg  T* /F1 6 Tf 0 0 0 rg (35 ) Tj /F5 6 Tf 0 0 0 rg (  node [shape=ellipse];) Tj T* /F1 6 Tf 0 0 0 rg (36 ) Tj /F5 6 Tf 0 0 0 rg (     report_verified [label="Report verified status", style=filled, fillcolor=burlywood];) Tj T* /F1 6 Tf 0 0 0 rg (37 ) Tj /F5 6 Tf 0 0 0 rg  T* /F1 6 Tf 0 0 0 rg (38 ) Tj /F5 6 Tf 0 0 0 rg (  node [shape=rectangle];) Tj T* /F1 6 Tf 0 0 0 rg (39 ) Tj /F5 6 Tf 0 0 0 rg (     closed [label="Closed"];) Tj T* /F1 6 Tf 0 0 0 rg (40 ) Tj /F5 6 Tf 0 0 0 rg  T* /F1 6 Tf 0 0 0 rg (41 ) Tj /F5 6 Tf 0 0 0 rg (  node [shape=doublecircle];) Tj T* /F1 6 Tf 0 0 0 rg (42 ) Tj /F5 6 Tf 0 0 0 rg (     report_closed [label="Report newly\\nclosed ARs and\\ntrack totals", style=filled, fillcolor=burlywood];) Tj T* /F1 6 Tf 0 0 0 rg (43 ) Tj /F5 6 Tf 0 0 0 rg  T* /F1 6 Tf 0 0 0 rg (44 ) Tj /F5 6 Tf 0 0 0 rg (  ranksep=.75;) Tj T* /F1 6 Tf 0 0 0 rg (45 ) Tj /F5 6 Tf 0 0 0 rg  T* /F1 6 Tf 0 0 0 rg (46 ) Tj /F5 6 Tf 0 0 0 rg (  { rank = same; "draft"; "peer_review"; };) Tj T* /F1 6 Tf 0 0 0 rg (47 ) Tj /F5 6 Tf 0 0 0 rg (  { rank = same; "fixed"; "revise"; };) Tj T* /F1 6 Tf 0 0 0 rg (48 ) Tj /F5 6 Tf 0 0 0 rg (  { rank = same; "closed"; "report_closed"; };) Tj T* /F1 6 Tf 0 0 0 rg (49 ) Tj /F5 6 Tf 0 0 0 rg  T* /F1 6 Tf 0 0 0 rg (50 ) Tj /F5 6 Tf 0 0 0 rg (  draft -) Tj (>) Tj ( peer_review [label="iterative"];) Tj T* /F1 6 Tf 0 0 0 rg (51 ) Tj /F5 6 Tf 0 0 0 rg (  peer_review -) Tj (>) Tj ( draft;) Tj T* /F1 6 Tf 0 0 0 rg (52 ) Tj /F5 6 Tf 0 0 0 rg (  draft -) Tj (>) Tj ( pending [label="Official release to distro"];) Tj T* /F1 6 Tf 0 0 0 rg (53 ) Tj /F5 6 Tf 0 0 0 rg (  pending -) Tj (>) Tj ( dev_review [label="Valid?"];) Tj T* /F1 6 Tf 0 0 0 rg (54 ) Tj /F5 6 Tf 0 0 0 rg (  dev_review -) Tj (>) Tj ( valid [label="Yes"];) Tj T* /F1 6 Tf 0 0 0 rg (55 ) Tj /F5 6 Tf 0 0 0 rg (  dev_review -) Tj (>) Tj ( invalid [label="No"];) Tj T* /F1 6 Tf 0 0 0 rg (56 ) Tj /F5 6 Tf 0 0 0 rg (  valid -) Tj (>) Tj ( prioritize;) Tj T* /F1 6 Tf 0 0 0 rg (57 ) Tj /F5 6 Tf 0 0 0 rg (  prioritize -) Tj (>) Tj ( fixed [label="Yes"];) Tj T* /F1 6 Tf 0 0 0 rg (58 ) Tj /F5 6 Tf 0 0 0 rg (  fixed -) Tj (>) Tj ( verify [label="Fixed?"];) Tj T* /F1 6 Tf 0 0 0 rg (59 ) Tj /F5 6 Tf 0 0 0 rg (  verify -) Tj (>) Tj ( valid [label="No"];) Tj T* /F1 6 Tf 0 0 0 rg (60 ) Tj /F5 6 Tf 0 0 0 rg (  verify -) Tj (>) Tj ( verified [label="Yes"];) Tj T* /F1 6 Tf 0 0 0 rg (61 ) Tj /F5 6 Tf 0 0 0 rg (  verify -) Tj (>) Tj ( revise [label="Partial"];) Tj T* /F1 6 Tf 0 0 0 rg (62 ) Tj /F5 6 Tf 0 0 0 rg (  revise -) Tj (>) Tj ( pending;) Tj T* /F1 6 Tf 0 0 0 rg (63 ) Tj /F5 6 Tf 0 0 0 rg (  verified -) Tj (>) Tj ( report_verified;) Tj T* /F1 6 Tf 0 0 0 rg (64 ) Tj /F5 6 Tf 0 0 0 rg (  report_verified -) Tj (>) Tj ( closed;) Tj T* /F1 6 Tf 0 0 0 rg (65 ) Tj /F5 6 Tf 0 0 0 rg (  closed -) Tj (>) Tj ( report_closed;) Tj T* /F1 6 Tf 0 0 0 rg (66 ) Tj /F5 6 Tf 0 0 0 rg (}) Tj T* /F1 6 Tf 0 0 0 rg (67 ) Tj T* ET
-Q
-Q
-Q
-Q
-Q
- 
-endstream
-endobj
-79 0 obj
-<< /Nums [ 0 80 0 R 1 81 0 R 2 82 0 R 3 83 0 R 4 84 0 R 
-  5 85 0 R 6 86 0 R ] >>
-endobj
-80 0 obj
+69 0 obj
 << /S /D /St 1 >>
 endobj
-81 0 obj
+70 0 obj
 << /S /D /St 2 >>
 endobj
-82 0 obj
+71 0 obj
 << /S /D /St 3 >>
 endobj
-83 0 obj
+72 0 obj
 << /S /D /St 4 >>
 endobj
-84 0 obj
-<< /S /D /St 5 >>
-endobj
-85 0 obj
-<< /S /D /St 6 >>
-endobj
-86 0 obj
-<< /S /D /St 7 >>
-endobj
 xref
-0 87
+0 73
 0000000000 65535 f
 0000000075 00000 n
-0000000151 00000 n
-0000000261 00000 n
-0000000376 00000 n
-0000000564 00000 n
-0000034913 00000 n
-0000035031 00000 n
-0000035311 00000 n
-0000035488 00000 n
-0000035665 00000 n
-0000035856 00000 n
-0000036049 00000 n
-0000036227 00000 n
-0000036402 00000 n
-0000036578 00000 n
-0000036924 00000 n
-0000037100 00000 n
-0000037276 00000 n
-0000037560 00000 n
-0000037839 00000 n
-0000038118 00000 n
-0000038423 00000 n
-0000038628 00000 n
-0000038851 00000 n
-0000039035 00000 n
-0000039219 00000 n
-0000039398 00000 n
-0000039583 00000 n
-0000039781 00000 n
-0000039962 00000 n
-0000040147 00000 n
-0000040351 00000 n
-0000040528 00000 n
-0000040718 00000 n
-0000040902 00000 n
-0000041090 00000 n
-0000041269 00000 n
-0000041454 00000 n
-0000041647 00000 n
-0000041933 00000 n
-0000042174 00000 n
-0000042412 00000 n
-0000042663 00000 n
-0000043030 00000 n
-0000043211 00000 n
-0000043418 00000 n
-0000043600 00000 n
-0000043782 00000 n
-0000043989 00000 n
-0000044236 00000 n
-0000044436 00000 n
-0000044549 00000 n
-0000044749 00000 n
-0000044858 00000 n
-0000045058 00000 n
-0000045167 00000 n
-0000045394 00000 n
-0000045472 00000 n
-0000045585 00000 n
-0000045718 00000 n
-0000045844 00000 n
-0000045984 00000 n
-0000046124 00000 n
-0000046269 00000 n
-0000046404 00000 n
-0000046543 00000 n
-0000046673 00000 n
-0000046799 00000 n
-0000046954 00000 n
-0000047120 00000 n
-0000047245 00000 n
-0000047350 00000 n
-0000055952 00000 n
-0000064249 00000 n
-0000075323 00000 n
-0000083791 00000 n
-0000092965 00000 n
-0000111277 00000 n
-0000117506 00000 n
-0000117608 00000 n
-0000117645 00000 n
-0000117682 00000 n
-0000117719 00000 n
-0000117756 00000 n
-0000117793 00000 n
-0000117830 00000 n
+0000000129 00000 n
+0000000239 00000 n
+0000000354 00000 n
+0000000542 00000 n
+0000034891 00000 n
+0000035009 00000 n
+0000035289 00000 n
+0000035466 00000 n
+0000035643 00000 n
+0000035834 00000 n
+0000036027 00000 n
+0000036205 00000 n
+0000036380 00000 n
+0000036556 00000 n
+0000036902 00000 n
+0000037078 00000 n
+0000037254 00000 n
+0000037538 00000 n
+0000037817 00000 n
+0000038096 00000 n
+0000038401 00000 n
+0000038606 00000 n
+0000038829 00000 n
+0000039013 00000 n
+0000039197 00000 n
+0000039376 00000 n
+0000039561 00000 n
+0000039759 00000 n
+0000039940 00000 n
+0000040125 00000 n
+0000040329 00000 n
+0000040506 00000 n
+0000040696 00000 n
+0000040880 00000 n
+0000041068 00000 n
+0000041247 00000 n
+0000041432 00000 n
+0000041625 00000 n
+0000041911 00000 n
+0000042152 00000 n
+0000042390 00000 n
+0000042641 00000 n
+0000043008 00000 n
+0000043189 00000 n
+0000043396 00000 n
+0000043578 00000 n
+0000043760 00000 n
+0000043967 00000 n
+0000044214 00000 n
+0000044323 00000 n
+0000044550 00000 n
+0000044628 00000 n
+0000044741 00000 n
+0000044874 00000 n
+0000045000 00000 n
+0000045140 00000 n
+0000045280 00000 n
+0000045425 00000 n
+0000045560 00000 n
+0000045699 00000 n
+0000045829 00000 n
+0000045942 00000 n
+0000046026 00000 n
+0000054997 00000 n
+0000063294 00000 n
+0000074368 00000 n
+0000082837 00000 n
+0000082908 00000 n
+0000082945 00000 n
+0000082982 00000 n
+0000083019 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [([B\273\355\335\373\374A\340\336\035\375Q\024\361\375) ([B\273\355\335\373\374A\340\336\035\375Q\024\361\375)]
- /Info 56 0 R /Root 55 0 R /Size 87 >>
+ [(M\343X\237\340\363\255\267\211?a\312\3041\177\320) (M\343X\237\340\363\255\267\211?a\312\3041\177\320)]
+ /Info 51 0 R /Root 50 0 R /Size 73 >>
 startxref
-117867
+83056
 %%EOF
