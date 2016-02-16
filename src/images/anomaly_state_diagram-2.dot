@@ -1,0 +1,80 @@
+digraph G {
+    size="6,8";
+//    ratio=fill; 
+    compound=true;
+    labelfontname=Arial;
+    fontname=Arial;
+    fontsize=10;
+    subgraph cluster0 {
+        node [style=filled,color=white,shape=square,fontname=Arial,fontsize=10];
+        style=filled;
+        color=lightgrey;
+        fontname=Arial;
+        fontsize=12;
+        label = "Anomaly Report\nLife Cycle";
+
+        Pending -> Valid -> Fixed -> Verified -> Closed [style=dotted];
+    }
+    subgraph cluster1 {
+        node [style=filled,fontname=Arial,fontsize=10];
+        fontname=Arial;
+        fontsize=12;
+        label = "IV&V & Eng. Processes";
+        color=blue
+
+        revise [label="Revise AR and reissue\nas new revision\n(close original AR\nbased on partial fix)",fillcolor=burlywood]
+        validate [label="Engineering\nReview"];
+        prioritze [label="Prioritize, assign\nto project(s),\ncomplete fix"];
+        verify [label="Review artifacts,\nverify code, docs, drawings,\ntest procedures",fillcolor=burlywood];
+
+        revise -> validate -> prioritze -> verify [style=invis];
+    }
+    subgraph cluster2 {
+        node [style=filled,color=powderblue,shape=square,fontname=Arial,fontsize=10];
+        style=filled;
+        color=lightgrey;
+        fontname=Arial;
+        fontsize=12;
+        label = "Additional\nClosure Status";
+
+        Invalid -> Rejected -> Accepted -> Unverifiable -> Reconfigured [style=invis];
+    }
+    ranksep=.75;
+
+    { rank = same; "Draft"; "peer"; };
+    { rank = same; "revise"; "Pending"; };
+    { rank = same; "Pending"; "Invalid"; };
+//    { rank = same; "Closed"; "report"; };
+//    { rank = same; ""; ""; };
+
+    Draft [style=filled,shape=Mdiamond,fillcolor=burlywood,fontname=Arial,fontsize=10];
+    peer [style=filled,label="Peer Review\n(internal)",fillcolor=burlywood,fontname=Arial,fontsize=10];
+    report [style=filled,shape=Mcircle,label="Report\nStatus",fillcolor=burlywood,fontname=Arial,fontsize=10];
+    Accepted [label="Accepted\nRisk"] 
+
+    Draft -> peer [style=dotted];
+    peer -> Draft [style=dotted];
+    Draft -> Pending [style=dotted];
+    Pending -> validate;
+    Pending -> Invalid [style=dotted];
+    Pending -> Rejected [style=dotted];
+    validate -> Valid;
+    prioritze -> validate [style=dotted];
+    validate -> prioritze [style=dotted];
+    Valid -> prioritze;
+    Valid -> Accepted [style=dotted];
+    Valid -> Unverifiable [style=dotted];
+    Valid -> Reconfigured [style=dotted];
+    prioritze -> verify [style=dotted];
+    verify -> prioritze [style=dotted];
+    prioritze -> Fixed;
+    Fixed -> verify [label="?",fontname=Arial,fontsize=10];
+    verify -> Verified [label="Yes",fontname=Arial,fontsize=10];
+    verify -> revise [label="Partial",fontname=Arial,fontsize=10];
+    verify -> Valid [taillabel="No",fontname=Arial,fontsize=10];
+    verify -> report [style=invis];
+    revise -> Pending;
+    Closed -> report [weight=10,ltail=cluster0];
+    Reconfigured -> report [weight=10,ltail=cluster2];
+}
+
