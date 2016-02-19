@@ -6,20 +6,10 @@
  Stephen L Arnold
 ==================
 
-Systems Engineer/Architect and Applied Earth Scientist
-======================================================
+Applied Earth Sciences and Systems/Software Engineering
+=======================================================
 
-+--------------------------------------+-------------------------+-------------+
-|**Location**: USA (Santa Maria, CA)   |**Degrees**:  Geophysics |             |
-|                                      |                         |             |
-|**Phone**: +01.805.863.8299           |**Language**: English    |   |myid|    |
-|                                      |                         |             |
-|**Email**: stephen.arnold42@gmail.com |                         |             |
-+--------------------------------------+-------------------------+-------------+
-
-.. |myid| image:: images/id.jpg
-   :scale: 10%
-   :align: top
+.. include:: contact.rst
 
 Education
 ---------
@@ -86,7 +76,7 @@ Recent Work Experience
   `Santa Maria Startup Weekend`_ and other local meetups and user groups.
   Open source presentations, technology training, demos.
 
-:2011 - 2014: SynergyHD3  - Senior Software Engineer -
+:2011 - 2014: Senior Software Engineer - SynergyHD3 -
   `Arthrex California Technology, Inc.`_ - Goleta, CA. DevOps, software/systems
   engineering, CM/QA, test & integration. Agile infrastructure & CI process
   implementation, Jenkins build/test/deployment automation. Linux OS/Distribution
@@ -124,10 +114,10 @@ Recent Work Experience
   algorithm & performance analysis, instrumentation and data quality analysis.
 
 :1990 - 1991: Applied earth science & software consultant, San Diego, CA.
-  Air toxics risk assessment modeling studies, sensitivity studies, environmental
-  assessments, cost-benefit analyses, bug-fixes and model enhancements (IWG Corp),
-  geophysical data acquisition (JR & Assoc), database design/implementation
-  (SDSU Instructional Media Center).
+  Air toxics risk assessment modeling studies, control-tradeoff & sensitivity 
+  studies, environmental assessments, cost-benefit analyses, bug-fixes and
+  model enhancements (IWG Corp), geophysical data acquisition (JR & Assoc),
+  database design/implementation (SDSU Foundation).
 
 :1984 - 1990: Research Assistant, Coastal and Boundary Layer Meteorology - SDSU
   and Scripps Center For Coastal Studies, San Diego, CA.  Field observations,
