@@ -51,7 +51,7 @@ Languages
 :Programming: Python, Ada, Bash/POSIX Shell, C, Java, C++, Perl, js, AWK, FORTRAN
 :Markup: reStructuredText, HTML, DTML, XML, Markdown
 :Architectures: x86/x86_64, ARM/AVR, Sparc, PowerPC, MIPS
-:Engineering: IV&V, OOD/P, UML, DoDAF, 2167/498/12227, toolchains/SDKs, CI/Agile,
+:Engineering: IV&V, OOD/P, UML, DoDAF, RMF/DIACAP, 2167/498/12227, toolchains/SDKs, CI/Agile,
   jenkins/apache/trac/svn/git workflows, open document production
 
 
