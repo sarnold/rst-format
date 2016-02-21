@@ -26,7 +26,8 @@ Education
 
 Technical skills
 ----------------
-:Sciences: Geophysical fluid dynamics, meteorology/geology/geography,
+:Sciences: Geophysical fluid dynamics, meteorological sensors, data analysis & modeling,
+  geology/geography, geophysical/multi-spectral remote sensing and geospatial analysis,
   environmental/health risk assessment, applied math modeling
 :CS/SE: Strong knowledge of programming languages and tools, system performance,
   design, testing, and administration, as well as the software lifecycle,

@@ -158,7 +158,7 @@ endobj
 << /Outlines 52 0 R /PageLabels 68 0 R /PageMode /UseNone /Pages 63 0 R /Type /Catalog >>
 endobj
 51 0 obj
-<< /Author () /CreationDate (D:20160220114755+08'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+<< /Author () /CreationDate (D:20160220190306+08'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
   /Title (Stephen L Arnold) >>
 endobj
 52 0 obj
@@ -171,7 +171,7 @@ endobj
 << /Dest [ 7 0 R /XYZ 62.69291 440.3339 0 ] /Next 55 0 R /Parent 52 0 R /Prev 53 0 R /Title (Technical skills) >>
 endobj
 55 0 obj
-<< /Dest [ 7 0 R /XYZ 62.69291 249.5339 0 ] /Next 56 0 R /Parent 52 0 R /Prev 54 0 R /Title (Languages) >>
+<< /Dest [ 7 0 R /XYZ 62.69291 237.5339 0 ] /Next 56 0 R /Parent 52 0 R /Prev 54 0 R /Title (Languages) >>
 endobj
 56 0 obj
 << /Dest [ 21 0 R /XYZ 62.69291 715.1339 0 ] /Next 57 0 R /Parent 52 0 R /Prev 55 0 R /Title (Recent Work Experience) >>
@@ -198,7 +198,7 @@ endobj
 << /Count 4 /Kids [ 7 0 R 21 0 R 43 0 R 49 0 R ] /Type /Pages >>
 endobj
 64 0 obj
-<< /Length 10486 >>
+<< /Length 10614 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -503,11 +503,11 @@ q
 1 0 0 1 62.69291 410.5339 cm
 Q
 q
-1 0 0 1 62.69291 383.5339 cm
+1 0 0 1 62.69291 371.5339 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 15 cm
+1 0 0 1 6 27 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 26.34937 0 Td (Sciences:) Tj T* -26.34937 0 Td ET
@@ -516,15 +516,14 @@ Q
 q
 1 0 0 1 91.03937 3 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .660961 Tw (Geophysical fluid dynamics, meteorology/geology/geography, environmental/health risk) Tj T* 0 Tw (assessment, applied math modeling) Tj T* ET
+BT 1 0 0 1 0 26 Tm 5.06935 Tw 12 TL /F1 10 Tf 0 0 0 rg (Geophysical fluid dynamics, meteorological sensors, data analysis & modeling,) Tj T* 0 Tw .549134 Tw (geology/geography, geophysical/multi-spectral remote sensing and geospatial analysis,) Tj T* 0 Tw (environmental/health risk assessment, applied math modeling) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 344.5339 cm
+1 0 0 1 62.69291 332.5339 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -545,7 +544,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 329.5339 cm
+1 0 0 1 62.69291 317.5339 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -566,7 +565,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 314.5339 cm
+1 0 0 1 62.69291 302.5339 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -587,7 +586,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 299.5339 cm
+1 0 0 1 62.69291 287.5339 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -608,7 +607,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 284.5339 cm
+1 0 0 1 62.69291 272.5339 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -629,7 +628,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 257.5339 cm
+1 0 0 1 62.69291 245.5339 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -650,16 +649,16 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 229.7339 cm
+1 0 0 1 62.69291 217.7339 cm
 q
 BT 1 0 0 1 0 3.3 Tm 19.8 TL /F2 16.5 Tf 0 0 0 rg (Languages) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 219.7339 cm
+1 0 0 1 62.69291 207.7339 cm
 Q
 q
-1 0 0 1 62.69291 204.7339 cm
+1 0 0 1 62.69291 192.7339 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -680,7 +679,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 189.7339 cm
+1 0 0 1 62.69291 177.7339 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -701,7 +700,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 162.7339 cm
+1 0 0 1 62.69291 150.7339 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -722,7 +721,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 147.7339 cm
+1 0 0 1 62.69291 135.7339 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -743,7 +742,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 132.7339 cm
+1 0 0 1 62.69291 120.7339 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -764,7 +763,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 117.7339 cm
+1 0 0 1 62.69291 105.7339 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -785,7 +784,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 90.73386 cm
+1 0 0 1 62.69291 78.73386 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -805,7 +804,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 90.73386 cm
+1 0 0 1 62.69291 78.73386 cm
 Q
  
 endstream
@@ -2056,19 +2055,19 @@ xref
 0000011593 00000 n
 0000011706 00000 n
 0000011790 00000 n
-0000022334 00000 n
-0000030631 00000 n
-0000041705 00000 n
-0000050174 00000 n
-0000050245 00000 n
-0000050282 00000 n
-0000050319 00000 n
-0000050356 00000 n
+0000022462 00000 n
+0000030759 00000 n
+0000041833 00000 n
+0000050302 00000 n
+0000050373 00000 n
+0000050410 00000 n
+0000050447 00000 n
+0000050484 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(F\307\352/r=f>N\274\374I\242\247M\320) (F\307\352/r=f>N\274\374I\242\247M\320)]
+ [(\230G\327X\345^\032\323U?I\301L\006%\213) (\230G\327X\345^\032\323U?I\301L\006%\213)]
  /Info 51 0 R /Root 50 0 R /Size 73 >>
 startxref
-50393
+50521
 %%EOF
