@@ -6,9 +6,6 @@
  Stephen L Arnold
 ==================
 
-Applied Earth Sciences and Systems/Software Engineering
-=======================================================
-
 .. include:: foss_cs.rst
 
 .. raw:: pdf
