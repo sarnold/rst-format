@@ -9,7 +9,7 @@ Education
   Doppler and Polarimetric Weather Radar, 595th TEG Test and Evaluation Course,
   AMS Faculty Workshop, AHC Professional Development courses.
 
-:1990: MS Degree in Geophysics, San Diego State University.  Thesis topic:
+:1990: MS Degree in Geophysics, San Diego State University.
 :1986: BS Degree in Geophysics, San Diego State University.
 
 
