@@ -10,3 +10,7 @@ To build resume and graphics from source requires recent versions of the followi
 * dev-python/docutils
 * sys-devel/make
 
+`Fancy GhResume Github version`_
+
+.. _Fancy GhResume Github version: http://sarnold.github.io/GhResume/?sarnold
+
