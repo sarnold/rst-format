@@ -53,6 +53,7 @@ Selected Projects
   * `GNU Winds On Critical Streamline Surfaces (GWOCSS)`_ diagnostic windfield model
   * `af_alg`_ - an openssl engine for the kernel user-config crypto interface
   * `CCCC`_ & `Cyclo`_ tools for source code complexity and structural metrics
+  * `URT`_ - Updated version of the Utah Raster Toolkit and RLE graphics library
   * `Open Source Weather Station`_ - Raspberry Pi and weather data ingest
     and display software, arduino lightning detector (AMS WeatherFest demo)
   * Various embedded Linux tools (build manifests, kernel/u-boot patches and rootfs tools, etc)
@@ -68,9 +69,10 @@ Selected Projects
     - `multi_arch-mainline-linux`_ - Kernel build and deb packaging scripts modified for native x86
 
 .. _GNU Winds On Critical Streamline Surfaces (GWOCSS): http://sarnold.github.io/gwocss/
-.. _af_alg: https://github.com/sarnold/af_alg
-.. _CCCC: https://github.com/sarnold/cccc
-.. _Cyclo: https://github.com/sarnold/cyclo
+.. _af_alg: https://github.com/sarnold/af_alg/blob/master/README.rst
+.. _CCCC: http://sarnold.github.io/cccc
+.. _Cyclo: http://www.gentoogeek.org/cyclo.html
+.. _URT: http://sarnold.github.io/urt/
 .. _Gentoo Linux: https://www.gentoo.org/
 .. _gentoo arm overlay: https://github.com/gentoo/arm
 .. _Open Source Weather Station: https://github.com/VCTLabs/weather-rpi

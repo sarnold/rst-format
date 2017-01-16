@@ -33,6 +33,14 @@
 .. Current .dot file is not the correct version (ie, does not match the latest
    diagram version).
    Uncomment the line below to include the AR appendix.
-   .. include:: appendix-A.rst
+
+.. include:: appendix-A.rst
+
+.. raw:: pdf
+
+   PageBreak
+
+.. include:: appendix-B.rst
+
 
 

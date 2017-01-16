@@ -12,7 +12,7 @@ DOTSRC  := $(wildcard images/*.dot)
 #FIGSRC	:= $(wildcard images/*.svg)
 #RSTSRC	:= $(wildcard *.rst)
 RSTSRC	:= $(RESUME).rst
-INCSRC  := foss_cs.rst work.rst projects_cs.rst pubs_interests.rst
+INCSRC  := foss_cs.rst work.rst projects_cs.rst pubs_interests.rst appendix-A.rst appendix-B.rst
 
 # set this to the output image format to include in the doc target
 FIGTYPE = svg

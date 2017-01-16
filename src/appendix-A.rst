@@ -12,7 +12,7 @@ Overall IV&V Engineering Process for Tracking Anomaly Reports
 * Prioritize: Developer/customer prioritizes ARs and assign to project(s).
 * Verify: IV&V verifies ARs declared fixed by the developer.  Partial fixes
   generate a revision of the original AR (the latter is closed based on the partial fix).
-* Report: IV&V reports AR State changes and status of open ARs.
+* Report: IV&V reports new ARs, AR State changes, and status of open ARs.
 
 AR States and Status
 ~~~~~~~~~~~~~~~~~~~~
@@ -64,7 +64,7 @@ AR States and Status
    :align: center
    :scale: 95%
 
-   Anomaly Report And Tracking State Diagram
+   Fig A. Anomaly Report (AR) State Diagram
 
 .. raw:: pdf
 
