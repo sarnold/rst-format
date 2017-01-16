@@ -1,8 +1,8 @@
 # document build target (see corresponding .rst source file)
-RESUME = sarnold.pdf
+RESUME ?= sarnold_short
 
 # just one pdf doc target for now
-DOCS = $(RESUME)
+DOCS = $(RESUME).pdf
 
 # figure generation engine; can use other layouts/drivers
 DOT = dot
@@ -11,7 +11,7 @@ DOT = dot
 DOTSRC  := $(wildcard images/*.dot)
 #FIGSRC	:= $(wildcard images/*.svg)
 #RSTSRC	:= $(wildcard *.rst)
-RSTSRC	:= sarnold.rst
+RSTSRC	:= $(RESUME).rst
 
 # set this to the output image format to include in the doc target
 FIGTYPE = svg
