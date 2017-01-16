@@ -7,7 +7,7 @@ FOSS Experience
 :2012 - Present: Co-maintainer of meta-printing layer, - OpenEmbedded_ and Yocto_
   contributor (oe-core, meta-openembedded, meta-python).
 
-:2003 - Present: Senior Developer - `Gentoo Linux`_.  Previuously aintainer of several
+:2003 - Present: Senior Developer - `Gentoo Linux`_.  Previuously maintainer of several
   development tools, GIS/scientific libraries, mentor of new developers; currently primary
   maintainer of `Gentoo ARM overlay`_ and personal `testing overlay`_.
 
