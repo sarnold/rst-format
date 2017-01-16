@@ -5,13 +5,13 @@ Recent Work Experience
   `Vanguard Computer Technology Labs, Inc`_ - Goleta, CA.  VCT Product/Project
   management, conferences/expos, open source outreach & education. IV&V, Range
   Meteorology, and Hazard/Risk Modeling Subject Matter Expert (SME), education
-  & training instructor.  Systems Architecture and CyberSecurity (specializing
-  in Gentoo, OpenEmbedded, RHEL, and Debian/Ubuntu, Linux development, build,
-  and deployment testing.  Linux kernel/u-boot and software testing on various
-  ARM devices (Gentoo Linux, OE).  Business/community development (event support,
-  outreach, presentations, proposals).
+  & training instructor.  Systems Architecture and CyberSecurity, specializing
+  in Gentoo Hardened, OpenEmbedded, RHEL, and Debian/Ubuntu, Linux development,
+  build, and deployment testing.  Linux kernel/u-boot hacking and software testing
+  on various ARM devices (Gentoo Linux, OE).  Business/community development (event
+  support, outreach, presentations, proposals).
 
-:2004 - Present: Startup / Tech Mentor - Technology and Open Source adviser,
+:2014 - Present: Startup / Tech Mentor - Technology and Open Source adviser,
   `Santa Maria Startup Weekend`_ and other local meetups and user groups.
   Open source presentations, technology training, demos.
 
@@ -34,8 +34,8 @@ Recent Work Experience
   Mission Flight Control Center. Responsible for Weather, Infrastructure, and
   Data Handling subsystems; technical IA and System Security/Accreditation support.
 
-:2002 - 2006: Senior Scientist, `Meteorological And Range Safety System`_ (MARSS),
-  Instrumentation and Infrastructure - `ENSCO, Inc.`_ - Santa Maria &  VAFB, CA.
+:2002 - 2006: Senior Engineer, `MARSS`_ Project, Range Instrumentation and 
+  Infrastructure - `ENSCO, Inc.`_ - Santa Maria &  VAFB, CA.
   RSA-MARSS and INF system design and requirements engineering, user training.
   Model evaluation and localization, integration with MM5/AWIPS, range
   instrumentation integration and test support.
@@ -68,7 +68,7 @@ Recent Work Experience
 .. _Vanguard Computer Technology Labs, Inc: http://www.vctlabs.com
 .. _Arthrex California Technology, Inc.: http://www.arthrex.com
 .. _ENSCO, Inc.: http://www.ensco.com
-.. _Meteorological And Range Safety System: https://www.researchgate.net/publication/270616408_P22_The_Meteorological_And_Range_Safety_Support_MARSS_system_a_GIS-based_tool_for_launch_area_hazard_prediction_and_visualization?ev=prf_pub
+.. _MARSS: https://www.researchgate.net/publication/270616408_P22_The_Meteorological_And_Range_Safety_Support_MARSS_system_a_GIS-based_tool_for_launch_area_hazard_prediction_and_visualization?ev=prf_pub
 .. _model evaluation: https://www.researchgate.net/publication/294263780_Physical_Thermodynamic_Properties_of_Hypergolic_Propellants_A_Review_and_Update
 .. _statistical estimation algorithm: https://www.researchgate.net/publication/270616420_P114_A_MINIMUM_VARIANCE_APPROACH_TO_ESTIMATING_WIND_DIRECTION_STATISTICS
 

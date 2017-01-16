@@ -1,7 +1,9 @@
 Applied Earth Sciences and Systems/Software Engineering
 =======================================================
 
-.. include:: contact.rst
+.. uncomment below to enable include
+   #
+   .. include:: location.rst
 
 Education
 ---------

@@ -25,12 +25,13 @@ Recent FOSS Experience
 ----------------------
 
 :2015 - Present: Co-maintainer of imx233-olinuxino boards for the `FSL Community BSP`_
-  (tested with Yocto/OpenEmbedded and meta-fsl*).
+  (testing with Yocto/OpenEmbedded and meta-fsl*).
 
 :2014 - Present: Founding member `Central Coast Open Source Solutions Exchange`_,
   an open source technology-focused meetup.
 
-:2012 - Present: Contributing developer - OpenEmbedded_ and Yocto_.
+:2012 - Present: Contributing developer - OpenEmbedded_ and Yocto_, meta-erlang,
+  meta-raspberrypi, etc.
 
 :2003 - Present: Senior Developer - `Gentoo Linux`_.  Maintainer of developer
   tools, GIS/scientific libraries, mentor of new developers, currently primary
@@ -59,8 +60,6 @@ Selected Projects
     developer tools, gnat-gcc, misc.
   * Project lead, `Open Source Weather Station`_ - Raspberry Pi weather sensors
     and display software, arduino lightning detector (AMS WeatherFest demo).
-  * Embedded OS build, test, deployment, validation. SynergyHD3 embedded surgical
-    camera project, Arthrex California Technology.
   * Lead Systems Engineer, Subject Matter Expert for Meteorological And Range
     Safety System (MARSS), VAFB.  Model evaluation and localization, integration
     with MM5/AWIPS and local instrumentation, forecaster/maintainer training.
