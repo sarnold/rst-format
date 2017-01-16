@@ -3,6 +3,11 @@ Selected Publications
 
 .. line-block::
 
+  **Towards an Open Instrumentaion Platform: Getting the Most From MAVLink, ArduPilot,**
+      **and BeagleBone** (2017) S. L. Arnold, to be presented at the Special Symposium on
+      Meteorological Observations and Instrumentation, Special Session: Unmanned Aerial
+      Vehicles for Atmospheric Research and Field Programs (97th Annual AMS Meeting, 2017).
+
   **Open Data Standards and Open Source Modeling Tools: The GPL'd Release of Winds On Critical**
       **Streamline Surfaces (GWOCSS)** (2015) S. L. Arnold, presented at the 31st Conference on
       Environmental Information Processing Technologies, Open Data Standards and Sharing track
@@ -14,8 +19,7 @@ Selected Publications
 
   **Open Source Technologies in Science Education: What's Your Geek IQ?** (2004) S. L. Arnold,
       presented at the Joint Session on Cyberinfrastructure to Support Atmospheric and Oceanic
-      Education: Examples and Strategies, 14th Symopsium on Education (85th Annual AMS Meeting,
-      2005).
+      Education: Examples and Strategies, 14th Symp. on Education (85th Annual AMS Meeting, 2005).
 
   **The Meteorological And Range Safety Support (MARSS) System: a GIS-based Tool for**
       **Launch Area Hazard Prediction and Visualization** (2004) S. L. Arnold, A. Dianic, and
@@ -52,7 +56,7 @@ Professional
 
 Personal
 --------
-:Home sites: http://www.gentoogeek.org  and  https://www.linkedin.com/pub/steve-arnold/3/172/427
+:Home sites: http://www.gentoogeek.org  and  http://dev.gentoo.org/~nerdboy/
 :Repositories: https://github.com/sarnold  and  https://github.com/VCTLabs
 :Publications: http://www.researchgate.net/profile/Stephen_Arnold4
 :Interests: Guitar/Bass/Percussion, Science Fiction, Open Source

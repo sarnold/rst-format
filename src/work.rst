@@ -1,7 +1,7 @@
-Recent Work Experience
-----------------------
+Relevant Work History
+---------------------
 
-:2014 - Present: Principal Scientist, Systems Architect, Business Development -
+:2014 - Present: Principal Scientist, Systems Architect, Community Development -
   `Vanguard Computer Technology Labs, Inc`_ - Goleta, CA.  VCT Product/Project
   management, conferences/expos, open source outreach & education. IV&V, Range
   Meteorology, and Hazard/Risk Modeling Subject Matter Expert (SME), education
@@ -19,7 +19,7 @@ Recent Work Experience
   `Arthrex California Technology, Inc.`_ - Goleta, CA. DevOps, software/systems
   engineering, CM/QA, test & integration. Agile infrastructure & CI process
   implementation, Jenkins build/test/deployment automation. Linux OS/Distribution
-  engineering, software and manufacturing process validation.
+  engineering, test automation, process validation.
 
 :2009 - 2011: Staff Scientist, IV&V / Systems Engineering and Architecture Support -
   `ENSCO, Inc.`_ - VAFB, CA.  Subject Matter Expert – Range Meteorological Systems,
@@ -35,7 +35,7 @@ Recent Work Experience
   Data Handling subsystems; technical IA and System Security/Accreditation support.
 
 :2002 - 2006: Senior Engineer, `MARSS`_ Project, Range Instrumentation and 
-  Infrastructure - `ENSCO, Inc.`_ - Santa Maria &  VAFB, CA.
+  Infrastructure - `ENSCO, Inc.`_ - Santa Maria, VAFB, CCAFS.
   RSA-MARSS and INF system design and requirements engineering, user training.
   Model evaluation and localization, integration with MM5/AWIPS, range
   instrumentation integration and test support.

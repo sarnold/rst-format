@@ -12,6 +12,7 @@ DOTSRC  := $(wildcard images/*.dot)
 #FIGSRC	:= $(wildcard images/*.svg)
 #RSTSRC	:= $(wildcard *.rst)
 RSTSRC	:= $(RESUME).rst
+INCSRC  := foss_cs.rst work.rst projects_cs.rst pubs_interests.rst
 
 # set this to the output image format to include in the doc target
 FIGTYPE = svg
@@ -41,7 +42,7 @@ images/%.$(FIGTYPE) : images/%.dot
 	$(DOT) $< $(DOT_OFLAG) $@ $(DOTFLAGS)
 
 # build the pdf output
-$(DOCS): $(SOURCES_MK)
+$(DOCS): $(SOURCES_MK) $(INCSRC)
 	rst2pdf $< $(RSTFLAGS) $(PDF_OFLAG) $@
 	cp $(DOCS) ../prebuilt
 

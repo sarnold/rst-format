@@ -62,7 +62,7 @@ AR States and Status
 
 .. figure:: images/anomaly_state_diagram-2.svg
    :align: center
-   :scale: 90%
+   :scale: 95%
 
    Anomaly Report And Tracking State Diagram
 
