@@ -1,5 +1,5 @@
-Recent Education Experience
----------------------------
+Education Experience
+--------------------
 
 :2014 - Present: Volunteer Instructor/Mentor - Google Summer of Code, 
   Computer Science Education Week, and Open Document Foundation's
@@ -21,20 +21,17 @@ Recent Education Experience
 
 .. _Allan Hancock College: http://www.hancockcollege.edu
 
-Recent FOSS Experience
-----------------------
-
-:2015 - Present: Co-maintainer of imx233-olinuxino boards for the `FSL Community BSP`_
-  (testing with Yocto/OpenEmbedded and meta-fsl*).
+FOSS Experience
+---------------
 
 :2014 - Present: Founding member `Central Coast Open Source Solutions Exchange`_,
   an open source technology-focused meetup.
 
-:2012 - Present: Contributing developer - OpenEmbedded_ and Yocto_, meta-erlang,
-  meta-raspberrypi, etc.
+:2012 - Present: Co-maintainer of meta-printing layer, - OpenEmbedded_ and Yocto_
+  contributor (oe-core, meta-openembedded, meta-python).
 
-:2003 - Present: Senior Developer - `Gentoo Linux`_.  Maintainer of developer
-  tools, GIS/scientific libraries, mentor of new developers, currently primary
+:2003 - Present: Senior Developer - `Gentoo Linux`_.  Previuously maintainer of several
+  development tools, GIS/scientific libraries, mentor of new developers; currently primary
   maintainer of `Gentoo ARM overlay`_ and personal `testing overlay`_.
 
 :2000 - Present: Upstream developer and/or maintainer of several tools and
@@ -42,7 +39,6 @@ Recent FOSS Experience
   See the `maintenance release page`_ and the individual github project sites
   for more information.
 
-.. _FSL Community BSP: http://freescale.github.io/doc/release-notes/1.8/
 .. _Central Coast Open Source Solutions Exchange: http://www.meetup.com/Central-Coast-Open-Source-Solutions-Exchange/
 .. _OpenEmbedded: http://www.openembedded.org/
 .. _Yocto: https://www.yoctoproject.org
@@ -50,6 +46,7 @@ Recent FOSS Experience
 .. _Gentoo ARM overlay: https://github.com/gentoo/arm
 .. _testing overlay: https://github.com/sarnold/portage-overlay
 .. _maintenance release page: http://www.gentoogeek.org
+
 
 Selected Projects
 -----------------
@@ -67,8 +64,7 @@ Selected Projects
     RSA Weather and Range Safety Systems, AFOTEC and 17TS.
   * IV&V and `model evaluation`_ of energy-balance evaporative source strength model
     for hypergolic propellant/oxidizer spills.
-  * Volunteer user group leader, technical support, and PoP maintenance, RAIN.
-  * Maintenance Development and Modeler, Air Emissions Risk Assessment Model
+  * Maintenance Developer and Modeler, Air Emissions Risk Assessment Model
     (AERAM). Air toxics risk assessment modeling, sensitivity studies, control
     trade-offs. Added "batch" mode for large model runs, fixed bugs.
   * Research Assistant, Data Analyst, Programmer on `Marginal Seas Experiment`_,
@@ -80,6 +76,7 @@ Selected Projects
 .. _Gentoo Linux: https://www.gentoo.org/
 .. _gentoo arm overlay: https://github.com/gentoo/arm
 .. _Open Source Weather Station: https://github.com/VCTLabs/weather-rpi
+.. _model evaluation: https://www.researchgate.net/publication/294263780_Physical_Thermodynamic_Properties_of_Hypergolic_Propellants_A_Review_and_Update
 .. _Marginal Seas Experiment: http://scrippsscholars.ucsd.edu/cdorman/content/lower-atmosphere-over-gulf-california
 .. _Gibraltar Experiment: https://www.researchgate.net/publication/230228131_Winds_in_the_Strait_of_Gbraltar
 .. _Shelf MIxed-Layer Experiment (SMILE): http://journals.ametsoc.org/doi/abs/10.1175/1520-0493%281995%29123%3C2384%3ASOTLAO%3E2.0.CO%3B2
