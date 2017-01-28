@@ -4,7 +4,7 @@ Selected Publications
 .. line-block::
 
   **Towards an Open Instrumentaion Platform: Getting the Most From MAVLink, ArduPilot,**
-      **and BeagleBone** (2017) S. L. Arnold, to be presented at the Special Symposium on
+      **and BeagleBone** (2016) S. L. Arnold, presented at the Special Symposium on
       Meteorological Observations and Instrumentation, Special Session: Unmanned Aerial
       Vehicles for Atmospheric Research and Field Programs (97th Annual AMS Meeting, 2017).
 
