@@ -1,15 +1,15 @@
 Relevant Work History
 ---------------------
 
-:2014 - Present: Principal Scientist, Systems Architect, Community Development -
+:2014 - Present: Principal Scientist, Systems Architect, Business & Community Development -
   `Vanguard Computer Technology Labs, Inc`_ - Goleta, CA.  VCT Product/Project
-  management, conferences & expos, open source outreach & education. IV&V, Range
-  Meteorology and Hazard/Risk Modeling Subject Matter Expert (SME), education
-  & training instructor.  Systems Architecture and CyberSecurity, specializing
+  management IV&V, Range Meteorology and Hazard/Risk Modeling Subject Matter Expert
+  (SME), education & training instructor, conferences & expos, open source
+  outreach & education.  Systems Architecture and CyberSecurity, specializing
   in Gentoo Hardened, OpenEmbedded, RHEL, and Debian/Ubuntu, Linux development,
   build, and deployment testing.  Linux kernel/u-boot hacking and software testing
   on various ARM devices (Gentoo Linux, OE).  Business/community development (event
-  support, outreach, presentations, proposals).
+  support, outreach, presentations, leads & proposals).
 
 :2014 - Present: Startup / Tech Mentor - Technology and Open Source adviser,
   `Santa Maria Startup Weekend`_ and other local meetups and user groups.

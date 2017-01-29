@@ -1,5 +1,5 @@
 +--------------------------------------+-------------------------+-------------+
-|**Location**: USA (Santa Maria, CA)   |**Degrees**:  Geophysics |             |
+|**Location**: Santa Barabara County   |**Degrees**:  Geophysics |             |
 |                                      |                         |             |
 |**Phone**: +01.805.863.8299           |**Language**: English    |   |myid|    |
 |                                      |                         |             |

@@ -8,11 +8,11 @@ document; the full size .svg graphs are hosted on `dev.gentoo.org`_.
 
 .. _dev.gentoo.org: http://dev.gentoo.org/~nerdboy/
 
-.. figure:: images/gentoo-steve-new-subgraph2.png
+.. figure:: images/gentoo-steve-new-subgraph2-scaled.png
    :align: center
    :width: 95%
 
-   Fig B. Category / Package Cluster Graph, Gentoo Linux commits, 2003 - 2013
+   Fig B. Category / Package Cluster Graph, Gentoo Linux commits by nerdboy, 2003 - 2013
 
 
 

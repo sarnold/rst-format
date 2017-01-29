@@ -3,7 +3,7 @@ Systems Engineering/Architecture and FOSS Developer
 
 .. uncomment below to enable include
    
-   .. include:: location.rst
+   .. include:: contact.rst
 
 Education
 ---------
