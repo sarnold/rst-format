@@ -70,7 +70,7 @@ AR States and Status
 
    PageBreak
 
-The Dot source code for the graphviz diagram is included below.
+The Dot source code for the AR diagram is included below.
 
 .. include:: images/anomaly_state_diagram-2.dot
    :code:

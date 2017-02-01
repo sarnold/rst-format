@@ -2,7 +2,9 @@ FOSS Experience
 ---------------
 
 :2014 - Present: Founding member `Central Coast Open Source Solutions Exchange`_,
-  an open source technology-focused meetup.
+  an open source technology-focused meetup.  Technology and Open Source adviser,
+  `Santa Maria Startup Weekend`_. Open source presentations, technology training,
+  demos.
 
 :2012 - Present: Co-maintainer of meta-printing layer, - OpenEmbedded_ and Yocto_
   contributor (oe-core, meta-openembedded, meta-python).

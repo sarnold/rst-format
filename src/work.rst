@@ -11,10 +11,6 @@ Relevant Work History
   on various ARM devices (Gentoo Linux, OE).  Business/community development (event
   support, outreach, presentations, leads & proposals).
 
-:2014 - Present: Startup / Tech Mentor - Technology and Open Source adviser,
-  `Santa Maria Startup Weekend`_ and other local meetups and user groups.
-  Open source presentations, technology training, demos.
-
 :2011 - 2014: Senior Software Engineer - SynergyHD3 -
   `Arthrex California Technology, Inc.`_ - Goleta, CA. DevOps, software/systems
   engineering, CM/QA, test & integration. Agile infrastructure & CI process
