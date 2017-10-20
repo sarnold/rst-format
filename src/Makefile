@@ -1,5 +1,5 @@
 # document build target (see corresponding .rst source file)
-RESUME ?= sarnold_short
+RESUME ?= sarnold_main
 
 # just one pdf doc target for now
 DOCS = $(RESUME).pdf

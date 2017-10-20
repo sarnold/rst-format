@@ -3,7 +3,7 @@ Systems Engineering/Architecture and FOSS Developer
 
 .. uncomment below to enable include
    
-   .. include:: contact.rst
+.. include:: location.rst
 
 Education
 ---------
@@ -40,8 +40,7 @@ Languages
 :Spanish: Conversational(-ish)
 :Programming: Python, Bash/POSIX Shell, C, Ada, Java, C++, Perl, js, AWK, FORTRAN
 :Markup: reStructuredText, HTML, DTML, XML, Markdown
-:Engineering: IV&V, OOD/P, UML, DoDAF, RMF/DIACAP, 2167/498/12227, RCC/AF/NASA Range Safety Stds
-   toolchains/SDKs, CI/Agile, jenkins/apache/trac/git workflows, open document production
+:Engineering: IV&V, OOD/P, UML, DoDAF, RMF/DIACAP, 2167/498/12227, RCC/AF/NASA Range Safety Stds and Reqs, toolchains/SDKs, CI/Agile, jenkins/apache/trac/git workflows, open document production
 :Applied Math: Numerical analysis, linear systems, differential equations, functional analysis,
   non-linear dynamics, math modeling, statistical methods, risk models
 

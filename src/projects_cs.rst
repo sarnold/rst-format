@@ -56,10 +56,12 @@ Selected Projects
   * `af_alg`_ - an openssl engine for the kernel user-config crypto interface
   * `CCCC`_ & `Cyclo`_ tools for source code complexity and structural metrics
   * `URT`_ - Updated version of the Utah Raster Toolkit and RLE graphics library
+  * `redis-ipc`_ - Convenience library for using redis server and JSON as IPC mechanism
   * `Open Source Weather Station`_ - Raspberry Pi and weather data ingest
     and display software, arduino lightning detector (AMS WeatherFest demo)
   * Various embedded Linux tools (build manifests, kernel/u-boot patches and rootfs tools, etc)
   
+    - `vct-boundary-bsp-platform`_ - Manifest tool for FOSS Poky/OpenEmbedded on various freescale boards
     - `vct-socfpga-bsp-platform`_ - Manifest tool for Poky/OpenEmbedded on Altera socfpga boards
     - `vct-beagleboard-bsp-platform`_ - Manifest tool for BeagleBoard.Org and/or TI builds of Poky and OpenEmbedded
     - `vct-edgerouter-bsp-platform`_ - Manifest tool for Poky/OpenEmbedded on MIPS Edgerouter Lite
@@ -68,7 +70,6 @@ Selected Projects
     - `gnu-arm-toolchain`_ - Modified build scripts and readme for building on ARMv7a host
     - `meta-small-arm-extra`_ - Custom ARM device layer for RPi, BBB, imx2x, Neo and similar
     - `meta-alt-desktop-extras`_ - Usability-focused Poky/OE desktop layer for constrained devices
-    - `multi_arch-mainline-linux`_ - Kernel build and deb packaging scripts modified for native x86
 
 .. _GNU Winds On Critical Streamline Surfaces (GWOCSS): http://sarnold.github.io/gwocss/
 .. _af_alg: https://github.com/sarnold/af_alg/blob/master/README.rst
@@ -78,8 +79,9 @@ Selected Projects
 .. _Gentoo Linux: https://www.gentoo.org/
 .. _gentoo arm overlay: https://github.com/gentoo/arm
 .. _Open Source Weather Station: https://github.com/VCTLabs/weather-rpi
+.. _redis-ipc: https://github.com/VCTLabs/redis-ipc
 
-
+.. _vct-boundary-bsp-platform: https://github.com/VCTLabs/vct-boundary-bsp-platform
 .. _vct-socfpga-bsp-platform: https://github.com/VCTLabs/vct-socfpga-bsp-platform
 .. _vct-beagleboard-bsp-platform: https://github.com/VCTLabs/vct-beagleboard-bsp-platform
 .. _vct-edgerouter-bsp-platform: https://github.com/VCTLabs/vct-edgerouter-bsp-platform
@@ -88,9 +90,4 @@ Selected Projects
 .. _gnu-arm-toolchain: https://github.com/sarnold/gnu-arm-toolchain
 .. _meta-small-arm-extra: https://github.com/sarnold/meta-small-arm-extra
 .. _meta-alt-desktop-extras: https://github.com/sarnold/meta-alt-desktop-extras
-.. _multi_arch-mainline-linux: https://github.com/sarnold/multi_arch-mainline-linux
-
-
-
-
 

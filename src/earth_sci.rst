@@ -3,7 +3,7 @@ Applied Earth Sciences and Systems/Software Engineering
 
 .. uncomment below to enable include
    #
-   .. include:: location.rst
+.. include:: location.rst
 
 Education
 ---------
@@ -47,6 +47,6 @@ Languages
 :Markup: reStructuredText, HTML, DTML, XML, Markdown
 :Architectures: x86/x86_64, ARM/AVR, Sparc, PowerPC, MIPS
 :Engineering: IV&V, OOD/P, UML, DoDAF, RMF/DIACAP, 2167/498/12227, toolchains/SDKs, CI/Agile,
-  jenkins/apache/trac/svn/git workflows, open document production
+  jenkins/apache/trac/git workflows, open document production
 
 

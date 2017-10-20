@@ -25,7 +25,9 @@ FOSS Experience
 ---------------
 
 :2014 - Present: Founding member `Central Coast Open Source Solutions Exchange`_,
-  an open source technology-focused meetup.
+  an open source technology-focused meetup.  Technology and Open Source adviser,
+  `Santa Maria Startup Weekend`_. Open source presentations, technology training,
+  demos.
 
 :2012 - Present: Co-maintainer of meta-printing layer, - OpenEmbedded_ and Yocto_
   contributor (oe-core, meta-openembedded, meta-python).
@@ -68,9 +70,7 @@ Selected Projects
     (AERAM). Air toxics risk assessment modeling, sensitivity studies, control
     trade-offs. Added "batch" mode for large model runs, fixed bugs.
   * Research Assistant, Data Analyst, Programmer on `Marginal Seas Experiment`_,
-    1984/85.
-  * Research Assistant, `Gibraltar Experiment`_, 1986.
-  * Research Assistant, `Shelf MIxed-Layer Experiment (SMILE)`_, 1989.
+    `Gibraltar Experiment`_, `Shelf MIxed-Layer Experiment (SMILE)`_.
 
 .. _GNU Winds On Critical Streamline Surfaces (GWOCSS): http://sarnold.github.io/gwocss/
 .. _Gentoo Linux: https://www.gentoo.org/
